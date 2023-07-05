@@ -4,7 +4,7 @@ title: "Gallery"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.25"
   overlay_image: /assets/images/gallery/fiverivers.jpg
   caption: "Fiver Rivers, Wyndham"
 feature_row:
@@ -23,7 +23,7 @@ feature_row2:
     image_caption: "*Corymbia bella* woodland"
 feature_row3:
   - image_path: assets/images/gallery/tigersnake.jpg
-    image_caption: "Tiger snake"
+    image_caption: "Western tiger snake"
   - image_path: assets/images/gallery/whitegrasswren.jpg
     image_caption: "White-throated grasswren"
   - image_path: assets/images/gallery/yellowfootantechinus.jpg
@@ -37,14 +37,10 @@ feature_row4:
     image_caption: "Cleopatra's needles"
 ---
 
-{% include feature_row id="intro" type="center" %}
-
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row id="feature_row2" %}
 
-{% include feature_row id="feature_row3" type="center" %}
+{% include feature_row id="feature_row3" %}
 
-{% include feature_row id="feature_row4" type="center" %}
-
-<p>Some content</p>
+{% include feature_row id="feature_row4" %}

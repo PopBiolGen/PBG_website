@@ -15,8 +15,43 @@ bib2md <- function(bib.entry){
   auth.string <- paste(unlist(auth.string), collapse = ", ")
   
   if (bib.entry$bibtype == "Article"){
-    paste(auth.string, " (", bib.entry$year, ").  ", bib.entry$title, "  *", bib.entry$journal, "*. **", bib.entry$volume, "**:", bib.entry$pages, ".", "\n ", sep="")
+    paste(auth.string,
+          " (",
+          bib.entry$year,
+          ").  ",
+          bib.entry$title,
+          "  *",
+          bib.entry$journal,
+          "*. **",
+          bib.entry$volume,
+          "**:",
+          bib.entry$pages,
+          ".",
+          "\n\n ", 
+          sep="")
   }
 }
 
-lapply(bib_data, bib2md)
+# format the bibliography
+formatBib <- lapply(bib_data, bib2md)
+formatBib <- unlist(formatBib)
+
+# open a file connection
+fc <- file("_pages/publications.md")
+
+writeLines(c("---
+permalink: /publications/
+title: Publications
+author_profile: false
+---\n\n", formatBib), fc)
+
+#writeLines(formatBib, con = fc)
+
+
+# for (pp in 1:length(formatBib)){
+#   print(pp)
+#   writeLines(formatBib[[pp]], con = fc)
+# }
+
+close(fc)
+

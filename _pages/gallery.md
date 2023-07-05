@@ -4,7 +4,7 @@ title: "Gallery"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.25"
+  overlay_filter: "0.1"
   overlay_image: /assets/images/gallery/fiverivers.jpg
   caption: "Five Rivers, Wyndham"
 feature_row:

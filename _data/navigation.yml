@@ -1,11 +1,13 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Team"
-    url: /team/
   - title: "Projects"
     url: /projects/
+  - title: "Team"
+    url: /team/
   - title: "News"
     url: /news/
   - title: "Gallery"
     url: /gallery/
+  - title: "Publications"
+    url: /publications/

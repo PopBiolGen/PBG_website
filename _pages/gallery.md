@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/gallery/fiverivers.jpg
-  caption: "Fiver Rivers, Wyndham"
+  caption: "Five Rivers, Wyndham"
 feature_row:
   - image_path: assets/images/gallery/squelchingfroglet.jpg
     image_caption: "Squelching froglet"

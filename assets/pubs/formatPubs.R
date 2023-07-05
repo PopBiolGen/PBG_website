@@ -31,26 +31,26 @@ bib2md <- function(bib.entry){
           sep="")
   }
   
-  if (bib.entry$bibtype == "Book Section"){
-    eds <- lapply(bib.entry$editor, author)
-    eds <- paste(unlist(eds), collapse = ", ")
-    paste(auth.string,
-          " (",
-          bib.entry$year,
-          ").  ",
-          bib.entry$title,
-          "  in ",
-          eds,
-          " *",
-          bib.entry$book.title,
-          "*. ",
-          bib.entry$publisher,
-          ". ",
-          bib.entry$place,
-          ".",
-          "\n\n ", 
-          sep="")
-  }
+  # if (bib.entry$bibtype == "Book Section"){
+  #   eds <- lapply(bib.entry$editor, author)
+  #   eds <- paste(unlist(eds), collapse = ", ")
+  #   paste(auth.string,
+  #         " (",
+  #         bib.entry$year,
+  #         ").  ",
+  #         bib.entry$title,
+  #         "  in ",
+  #         eds,
+  #         " *",
+  #         bib.entry$book.title,
+  #         "*. ",
+  #         bib.entry$publisher,
+  #         ". ",
+  #         bib.entry$place,
+  #         ".",
+  #         "\n\n ", 
+  #         sep="")
+  # }
 }
 
 # format the bibliography

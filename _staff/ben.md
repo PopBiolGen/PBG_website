@@ -1,5 +1,8 @@
 ---
 layout: single
+title:
+permalink: /team/ben/
+author_profile: true
 author:
   name   : "Ben Phillips"
   short_name: Ben

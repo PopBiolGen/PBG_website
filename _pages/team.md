@@ -5,16 +5,16 @@ author_profile: false
 sidebar_nav: true
 ---
 
-# Staff
+## Staff
 
 {% for person in site.staff %}
   ![Mugshot of {{person.short_name}}]({{site.url}}{{base.url}}{{person.image_file}})
-  <h3> <a href = "{{site.url}}{{site.baseurl}}{{person.url}}"> {{person.title}} {{person.name}} </a> </h3>
+  <h3> <a href = "{{site.url}}{{site.baseurl}}{{person.url}}"> {{person.name_title}} {{person.name}} </a> </h3>
   <h4> {{person.position}} </h4>
   
 {% endfor %}
 
-# Students
+## Students
 
 {% for person in site.students %}
   <h3> {{person.title}} {{person.name}} </h3>
@@ -24,4 +24,4 @@ sidebar_nav: true
   
 {% endfor %}
 
-# Alumni
+## Alumni

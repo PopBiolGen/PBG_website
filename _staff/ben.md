@@ -10,7 +10,7 @@ twitter_handle: benflips
 github_handle: benflips
 keybase_handle: benflips
 gs_handle: Kk1JhPwAAAAJ&hl
-image_file: assets/images/mugshots/ben.png
+image_file: /assets/images/mugshots/ben.png
 author: "First Lastname"
 author_profile: true
 ---

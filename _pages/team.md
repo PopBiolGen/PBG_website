@@ -17,8 +17,8 @@ sidebar_nav: true
 ## Students
 
 {% for person in site.students %}
-  <h3> {{person.title}} {{person.name}} </h3>
-  <h4> {{person.position}} </h4>
+  <h4> {{person.title}} {{person.name}} </h4>
+  <h5> {{person.position}} </h5>
   <p> {{person.content | markdownify}} </p>
   
   

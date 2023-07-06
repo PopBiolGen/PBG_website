@@ -77,6 +77,11 @@ author:
 
 atom_feed:
   hide: true
+  
+collections:
+  staff:
+    output: true
+  students:
 
 # footer:
 #   links:

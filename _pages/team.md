@@ -2,6 +2,7 @@
 permalink: /team/
 title: "Team"
 author_profile: false
+sidebar_nav: true
 ---
 
 # Staff

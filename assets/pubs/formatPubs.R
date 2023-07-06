@@ -1,8 +1,13 @@
 library(RefManageR)
 library(knitr)
+library(lubridate)
 
+#number of years to go back
+nyears <- 5
+#read data
 bib_data <- ReadBib("assets/pubs/PBG_pubs.bib")
-
+#select only last nyears of data
+bib_data <- bib_data[as.numeric(bib_data$year)>(year(today())-nyears)]
 # sort the bibliography
 bib_data <-  sort(bib_data, sorting = "ynt", decreasing = TRUE)
 
@@ -71,7 +76,9 @@ writeLines(c("---
 permalink: /publications/
 title: Publications
 author_profile: false
----\n\n", formatBib), fc)
+---
+             
+A list of our publications from the last five years. \n\n", formatBib), fc)
 
 #writeLines(formatBib, con = fc)
 

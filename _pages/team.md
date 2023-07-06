@@ -8,8 +8,8 @@ sidebar_nav: true
 ## Staff
 
 {% for person in site.staff %}
-  ![Mugshot of {{person.short_name}}]({{site.url}}{{site.baseurl}}{{person.image_file}})
-  <h4> <a href = "{{site.url}}{{site.baseurl}}{{person.url}}"> {{person.name_title}} {{person.name}} </a> </h4>
+  ![Mugshot of {{person.author.short_name}}]({{site.url}}{{site.baseurl}}{{person.author.image_file}})
+  <h4> <a href = "{{site.url}}{{site.baseurl}}{{person.url}}"> {{person.author.name_title}} {{person.author.name}} </a> </h4>
   <h5> {{person.position}} </h5>
   
 {% endfor %}

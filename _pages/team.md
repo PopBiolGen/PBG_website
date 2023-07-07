@@ -12,6 +12,8 @@ sidebar_nav: true
   <h4> <a href = "{{site.url}}{{site.baseurl}}{{person.url}}"> {{person.author.name_title}} {{person.author.name}} </a> </h4>
   <h5> {{person.author.position}} </h5>
   
+  {% include author-profile %}
+  
 {% endfor %}
 
 ## Students

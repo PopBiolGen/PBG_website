@@ -23,9 +23,9 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/benflips"
     - label: "Keybase"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-key"
       url: "https://keybase.io/benflips"
-    - label: "gScholar"
+    - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.com.au/citations?user=Kk1JhPwAAAAJ&hl"
 ---

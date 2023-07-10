@@ -12,7 +12,7 @@ author:
   institution: Curtin University
   email: ben.l.phillips@curtin.edu.au
   home: "https://benflips.github.io/PBG/team/ben/"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Professor of population biology at Curtin"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

@@ -11,6 +11,7 @@ author:
   position: "Premier's Science Fellow"
   institution: Curtin University
   email: ben.l.phillips@curtin.edu.au
+  home: "https://benflips.github.io/PBG/team/ben/"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
@@ -23,7 +24,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/benflips"
     - label: "Keybase"
-      icon: "fab fa-fw fa-key"
+      icon: "fab fa-keybase"
       url: "https://keybase.io/benflips"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"

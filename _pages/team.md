@@ -4,6 +4,7 @@ title: "Team"
 author_profile: false
 sidebar_nav: true
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 ## Staff
 

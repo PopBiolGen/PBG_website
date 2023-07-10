@@ -15,16 +15,16 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://benflips.github.io/PBG"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/benflips"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
+      url: "https://github.com/benflips"
+    - label: "Keybase"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://keybase.io/benflips"
 twitter_handle: benflips
 github_handle: benflips
 keybase_handle: benflips

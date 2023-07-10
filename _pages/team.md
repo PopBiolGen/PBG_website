@@ -11,8 +11,7 @@ sidebar_nav: true
   ![Mugshot of {{person.author.short_name}}]({{site.url}}{{site.baseurl}}{{person.author.avatar}})
   <h4> <a href = "{{site.url}}{{site.baseurl}}{{person.url}}"> {{person.author.name_title}} {{person.author.name}} </a> </h4>
   <h5> {{person.author.position}} </h5>
-  {% capture author %}{{person.author}}{% endcapture %}
-  {% include author-profile-flat.html %}
+  {% include author-profile-flat.html author=person.author %}
   
 {% endfor %}
 

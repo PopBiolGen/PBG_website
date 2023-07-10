@@ -25,7 +25,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://keybase.io/benflips"
     -label: "gScholar"
-     icon: "fab fa-fw fa-instagram"
+     icon: "ai ai-google-scholar-square"
      url: "https://scholar.google.com.au/citations?user=Kk1JhPwAAAAJ&hl"
 ---
 

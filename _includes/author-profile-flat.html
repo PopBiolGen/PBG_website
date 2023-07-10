@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 <div itemscope itemtype="https://schema.org/Person">
 
   {% if include.author.avatar %}
@@ -242,15 +241,9 @@
             <i class="fab fa-fw fa-vine" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</span>
           </a>
         </li>
-        
-        {% if include.author.gscholar %}
-        <li>
-    <a href="https://scholar.google.com.au/citations?user={{include.author.gscholar}}" itemprop="sameAs" rel="nofollow noopener noreferrer">
-      <i class="ai ai-google-scholar-square" aria-hidden="true"></i> Google Scholar
-    </a>
-      </li>
       {% endif %}
 
+      {% include google-scholar-profile-link.html %}
     </ul>
   </div>
 </div>

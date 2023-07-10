@@ -242,14 +242,13 @@
             <i class="fab fa-fw fa-vine" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</span>
           </a>
         </li>
-      {% endif %}
         
-      {% if include.author.gscholar %}
+        {% if include.author.gscholar %}
         <li>
-           <a href="https://scholar.google.com.au/citations?user={{include.author.gscholar}}" itemprop="sameAs" rel="nofollow noopener noreferrer">
-             <i class="ai ai-google-scholar-square" aria-hidden="true"></i> Google Scholar
-           </a>
-        </li>
+    <a href="https://scholar.google.com.au/citations?user={{include.author.gscholar}}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="ai ai-google-scholar-square" aria-hidden="true"></i> Google Scholar
+    </a>
+      </li>
       {% endif %}
 
     </ul>

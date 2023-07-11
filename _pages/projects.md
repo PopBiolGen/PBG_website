@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /projects/
+title: "Projects"
 author_profile: false
 ---
 

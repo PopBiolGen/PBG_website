@@ -2,7 +2,7 @@
 permalink: /team/
 title: "Team"
 author_profile: false
-sidebar_nav: true
+toc: true
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 

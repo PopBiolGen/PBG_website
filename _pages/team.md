@@ -9,7 +9,7 @@ toc: true
 ## Staff
 
 {% for person in site.staff %}
-  {% include author-profile-flat.html author=person.author %}
+  {% include author-profile-flat.html %}
 {% endfor %}
 
 ## Students

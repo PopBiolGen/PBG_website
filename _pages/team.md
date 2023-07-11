@@ -4,12 +4,12 @@ title: "Team"
 author_profile: false
 toc: true
 ---
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 ## Staff
 
 {% for person in site.staff %}
   {% include author-profile-flat.html %}
+
 {% endfor %}
 
 ## Students

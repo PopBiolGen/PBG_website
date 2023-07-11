@@ -1,9 +1,25 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /team/
+title: "Team"
 author_profile: false
+sidebar_nav: true
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Staff
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+{% for person in site.staff %}
+  {% include author-profile-flat.html author=person.author %}
+{% endfor %}
+
+## Students
+
+{% for person in site.students %}
+  <h4> {{person.title}} {{person.name}} </h4>
+  <h5> {{person.position}} </h5>
+  <p> {{person.content | markdownify}} </p>
+  
+  
+{% endfor %}
+
+## Alumni

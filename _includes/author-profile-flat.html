@@ -1,0 +1,58 @@
+<div itemscope itemtype="https://schema.org/Person">
+
+  {% if include.author.avatar %}
+    <div class="author__avatar">
+      {% if include.author.home %}
+        <a href="{{ include.author.home | relative_url }}">
+          <img src="{{ include.author.avatar | relative_url }}" alt="{{ include.author.name }}" itemprop="image">
+        </a>
+      {% else %}
+        <img src="{{ include.author.avatar | relative_url }}" alt="{{ include.author.name }}" itemprop="image">
+      {% endif %}
+    </div>
+  {% endif %}
+
+  <div class="author__content">
+    {% if include.author.home %}
+      <a href="{{ include.author.home | relative_url }}"><h3 class="author__name" itemprop="name">{{ include.author.name }}</h3></a>
+    {% else %}
+      <h3 class="author__name" itemprop="name">{{ include.author.name }}</h3>
+    {% endif %}
+    {% if include.author.bio %}
+      <div class="author__bio" itemprop="description">
+        {{ include.author.bio | markdownify }}
+      </div>
+    {% endif %}
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
+    <ul class="author__urls social-icons">
+      {% if include.author.location %}
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ include.author.location }}</span>
+        </li>
+      {% endif %}
+
+      {% if include.author.links %}
+        {% for link in include.author.links %}
+          {% if link.label and link.url %}
+            <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+
+
+      {% if include.author.email %}
+        <li>
+          <a href="mailto:{{ include.author.email }}">
+            <meta itemprop="email" content="{{ include.author.email }}" />
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</span>
+          </a>
+        </li>
+      {% endif %}
+
+      
+    </ul>
+  </div>
+</div>

@@ -14,9 +14,6 @@ author:
   home: "https://benflips.github.io/PBG/team/brenton/"
   bio    : "Research Fellow studying population ecology and genomics at Curtin"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://benflips.github.io/PBG"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/certhionyx"

@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-author_profile: false
+author_profile: true
 ---
 
 Welcome to Population Biology and Genomics (PGB) @ Curtin University! Our goal is to better understand population level processes in ecology and evolution, and convert this understanding into practical outcomes for the environment, health, and agriculture. With a focus on building functional collaborations, developing novel analytical approaches, and using modern technologies, we strive to push the boundaries of science and make tangible contributions to the world. We tackle complex challenges and explore innovative solutions to real-world problems, including the decline and extinction of species that is occurring globally. We are driven by a passion for discovery and a love of the natural world.

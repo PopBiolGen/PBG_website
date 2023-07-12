@@ -5,9 +5,7 @@ Allee Drives:
   end_date:
   funder:
     - label: "Australian Research Council"
-      logo: "https://www.arc.gov.au/themes/custom/arc_bootstrap_sass/logo.svg"
-      url: "https://www.arc.gov.au/"
-  partners:
+  industry_partners:
   collaborators:
     - name: "Charlie Robin"
     - name: "Nick Golding"

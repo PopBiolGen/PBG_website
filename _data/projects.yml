@@ -1,0 +1,20 @@
+Allee Drives:
+  name: "Using genetic Allee effects to manage invasive populations"
+  short_name: "Allee drives"
+  start_date: 2023
+  end_date:
+  funder:
+    - label: "Australian Research Council"
+      logo: "https://www.arc.gov.au/themes/custom/arc_bootstrap_sass/logo.svg"
+      url: "https://www.arc.gov.au/"
+  partners:
+  collaborators:
+    - name: "Charlie Robin"
+      affiliation: "University of Melbourne"
+      url: "https://findanexpert.unimelb.edu.au/profile/6345-charles-robin"
+    - name: "Nick Golding"
+      affiliation: "Curtin University"
+      url: "https://staffportal.curtin.edu.au/staff/profile/view/nick-golding-fea4f81a/"
+    - name: "Elodie Vercken"
+      affiliation: "INRAE France"
+      url: "https://www6.paca.inrae.fr/institut-sophia-agrobiotech_eng/Research-teams/BPI/Team-members/VERCKEN-Elodie"

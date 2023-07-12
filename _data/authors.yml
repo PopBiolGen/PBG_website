@@ -1,0 +1,62 @@
+Ben Phillips:
+  name   : "Ben Phillips"
+  short_name: Ben
+  name_title: Prof.
+  avatar : "/assets/images/mugshots/ben.png"
+  position: "Premier's Science Fellow"
+  institution: Curtin University
+  email: ben.l.phillips@curtin.edu.au
+  home: "https://benflips.github.io/PBG/team/ben/"
+  bio    : "Professor of population biology at Curtin"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://benflips.github.io/PBG"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/benflips"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/benflips"
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/benflips"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.com.au/citations?user=Kk1JhPwAAAAJ&hl"
+    - label: "Linked In"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/ben-phillips-7031a7191/"
+      
+Brenton von Takach:
+  name   : "Brenton von Takach"
+  short_name: Brenton
+  name_title: Dr
+  avatar : "/assets/images/mugshots/brenton.png"
+  position: "Premier's EMC Fellow"
+  institution: Curtin University
+  email: brenton.vontakach@curtin.edu.au
+  home: "https://benflips.github.io/PBG/team/brenton/"
+  bio    : "Research Fellow studying population ecology and genomics at Curtin"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/certhionyx"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/brentonvt"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.com.au/citations?user=TGG2L-QAAAAJ&hl"
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Brenton-Von-Takach"
+    - label: "iNaturalist"
+      icon: "ai ai-inaturalist"
+      url: "https://www.inaturalist.org/people/6384971"
+    - label: "ORCiD"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-7999-3521"
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/brentonvt"

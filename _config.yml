@@ -82,6 +82,8 @@ collections:
   staff:
     output: true
   students:
+  projects:
+    output: true
 
 # footer:
 #   links:

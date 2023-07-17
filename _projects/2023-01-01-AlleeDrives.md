@@ -16,6 +16,13 @@ header:
   image: "assets/images/projects/AlleeDrive.png"
   image_alt: "Cartoon of driving the Allee effect, using genes"
   teaser: "assets/images/projects/AlleeDrive.png"
+gallery:
+  - image_path: assets/images/Toad.png
+    image_caption: "Ben Phillips"
+  - image_path: "assets/images/projects/anopheles.png"
+    image_caption: "Anopheles mosquito"
+  - image_path: "assets/images/projects/bactrocerca.png"
+    image_caption: "Howcheng on wikimedia"
 ---
 
 Description of the project

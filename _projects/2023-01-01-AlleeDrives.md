@@ -24,6 +24,7 @@ gallery:
   - image_path: "assets/images/projects/bactrocerca.png"
     image_caption: "Howcheng on wikimedia"
 ---
+{% include project-sidebar %}
 
 Description of the project
 

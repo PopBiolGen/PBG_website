@@ -5,6 +5,7 @@ short_name: "Allee drives"
 start_date: 2023
 end_date:
 led_from: "Curtin University"
+sidebar: true
 funders:
   - name: "Australian Research Council"
 industry_partners:

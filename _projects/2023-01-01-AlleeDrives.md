@@ -13,16 +13,23 @@ collaborators:
   - name: "Nick Golding"
   - name: "Elodie Vercken"
 header:
-  image:
-  image_alt:
-  teaser:
+  image: "assets/images/projects/AlleeDrive.png"
+  image_alt: "Cartoon of driving the Allee effect, using genes"
+  teaser: "assets/images/projects/AlleeDrive.png"
 sidebar:
-    image:
+    image:"assets/images/projects/AlleeDrive.png"
     image_alt:
 gallery:
- - url:
-   image_path:
-   alt:
+  - url:
+    image_path: "assets/images/Toad.png"
+    alt:
+  - url:
+    image_path: "assets/images/projects/anopheles.png"
+    alt: "Anopheles mosquito"
+  - url:
+    image_path: "assets/images/projects/anopheles.png"
+    alt: "Anopheles mosquito"
+    caption: "Howcheng on wikimedia"
 ---
 
 Description of the project

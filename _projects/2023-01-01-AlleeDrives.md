@@ -25,10 +25,10 @@ gallery:
     image_caption: "Howcheng on wikimedia"
 ---
 
-Description of the project
+An invasion can be started with only a small number of individuals, and it is very difficult to reliably detect these individuals. This project aims to develop new genetic technology that can send small founder populations extinct without affecting large populations. This technology removes the problem of having to detect small populations; these small populations will go extinct on their own, without the need for management intervention. This technology could be used to prevent establishment and spread of invasive species and agricultural pests.Through a combination of experimentation and modelling, the project develops this technology and assesses itsuse in applied problems ranging across environment, agriculture, and health.
 
-{% include gallery caption = "images relevant to the project"%}
+{% include gallery caption = "Some of the critters we will be working on"%}
 
 ## Progress
 
-Description of progress
+This project commenced mid 2023.  Students and staff have been recruited at the Melbourne end. We are in the process of recruiting at Curtin.

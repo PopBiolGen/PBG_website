@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Test of the projects page.
+Some of our projects (current and historical)

@@ -5,7 +5,8 @@ short_name: "Allee drives"
 start_date: 2023
 end_date:
 led_from: "Curtin University"
-sidebar: true
+sidebar:
+  - title: "{{page.short_name}}"
 funders:
   - name: "Australian Research Council"
 industry_partners:
@@ -14,8 +15,6 @@ collaborators:
   - name: "Nick Golding"
   - name: "Elodie Vercken"
 header:
-  image: "assets/images/projects/AlleeDrive.png"
-  image_alt: "Cartoon of driving the Allee effect, using genes"
   teaser: "assets/images/projects/AlleeDrive.png"
 gallery:
   - image_path: assets/images/Toad.png

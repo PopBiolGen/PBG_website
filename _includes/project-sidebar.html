@@ -3,8 +3,9 @@
     <img src="{{ page.header.teaser | relative_url }}"
              alt="{{page.header.image_alt }}">
     
-    {% if collaborators %}
-    <h3>{{ Collaborators }}</h3>
+    {% if page.collaborators %}
+    
+    <h3>Collaborators</h3>
     <ul>
       {% for cc in page.collaborators %}
         <li><a href={{site.data.collaborators[cc.name].url}}>{{cc.name}}</a> at {{site.data.collaborators[cc.name].affiliation}}</li>
@@ -12,8 +13,8 @@
     </ul>
     {% endif %}
     
-    {% if industry_partners %}
-    <h3>{{ Industry partners }}</h3>
+    {% if page.industry_partners %}
+    <h3>Industry partners</h3>
     <ul>
       {% for ii in page.industry_partners %}
         <li><a href={{site.data.partners[ii.name].url}}>{{ii.name}}</a></li>
@@ -21,8 +22,8 @@
     </ul>
     {% endif %}
     
-    {% if funders %}
-    <h3>{{ Funded by }}</h3>
+    {% if page.funders %}
+    <h3>Funded by</h3>
     <ul>
       {% for ff in page.funders %}
         <li><a href={{site.data.funders[ff.name].url}}>{{ff.name}}</a></li>

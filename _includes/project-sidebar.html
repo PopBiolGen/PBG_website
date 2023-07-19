@@ -3,8 +3,9 @@
     <img src="{{ page.header.teaser | relative_url }}"
              alt="{{page.header.image_alt }}">
     
-    {% if page.collaborators %}
+    Led from {{page.led_from}}
     
+    {% if page.collaborators %}
     <h3>Collaborators</h3>
     <ul>
       {% for cc in page.collaborators %}

@@ -36,6 +36,6 @@ This project will develop robust behavioural assays to measure anti-predator res
 
 ## Progress
 
-This project is well underway, led by the highly capable [Natasha Harrison]({{site.data.collaborators["Natasha Harrison"].url}}).  The project has already resulted in several publications, not only proofing up behavioural assays, but applying them to investigate trait shift in havened populations of Woylies.
+This project is well underway, led by the highly capable duo of [Nicki Mitchell]({{site.data.collaborators["Nicki Mitchell"].url}}) and [Natasha Harrison]({{site.data.collaborators["Natasha Harrison"].url}}).  The project has already resulted in several publications, not only proofing up behavioural assays, but applying them to investigate trait shift in havened populations of Woylies.
 
 Some fairly simple behavioural assays exhibit reasonable repeatability and exhibit clear shifts between havened and non-havened populations.  The work has attracted considerable media attention. The finding that havened animals may be losing critical traits is of clear public interest and will likely lead to systems not only for monitoring and managing populations, but also the traits these populations carry.  Hopefully the result will be a future-proof conservation strategy!

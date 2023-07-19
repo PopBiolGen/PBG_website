@@ -39,7 +39,8 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
+  - .Rproj.user/
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
@@ -82,6 +83,8 @@ collections:
   staff:
     output: true
   students:
+  projects:
+    output: true
 
 # footer:
 #   links:
@@ -114,6 +117,15 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _projects
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: project
+      author_profile: false
+      classes: wide
+      sidebar: true
 
 category_archive:
   type: liquid

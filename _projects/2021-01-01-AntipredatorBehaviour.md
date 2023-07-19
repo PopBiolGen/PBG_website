@@ -30,7 +30,9 @@ Unfortunately, we are currently blind to this trait loss because, by and large, 
 
 This project will develop robust behavioural assays to measure anti-predator responses in critical-weight-range mammals. We will use a bettong - the woylie (*Bettongia penicillata*) and a bandicoot - the quenda (*Isoodon fusciventer*) as model systems. We will develop a library of well-characterised assays, and use these to quantify behavioural shifts between populations of these species inside and outside of predator-free havens. Our work will not only provide direct measures of trait change in these two species, but will provide a battery of assays that can be applied to many other critical-weight-range mammal species under intensive conservation management. 
 
+{% if gallery %}
 {% include gallery caption = "images relevant to the project"%}
+{% endif %}
 
 ## Progress
 

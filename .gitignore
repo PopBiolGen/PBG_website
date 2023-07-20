@@ -5,3 +5,4 @@ Gemfile.lock
 .Rproj.user
 *.Rproj
 .Rhistory
+.DS_store

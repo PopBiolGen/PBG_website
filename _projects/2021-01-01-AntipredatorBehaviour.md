@@ -17,7 +17,7 @@ collaborators:
   - name: "Jan Hemmi"
   - name: "Leonie Valentine"
 header:
-  teaser: "assets/images/projects/2016-12-19_11_07_43-Woylie_Kanyana Wildlife.jpg"
+  teaser: "assets/images/projects/2016-12-19_11_07_43-Woylie_Kanyana Wildlife.png"
 gallery:
   - image_path: 
     image_caption: 

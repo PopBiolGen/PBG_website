@@ -10,6 +10,7 @@ funders:
   - name: "Australian Research Council"
 industry_partners:
 collaborators:
+  - name: "Ben Phillips"
   - name: "Charlie Robin"
   - name: "Nick Golding"
   - name: "Elodie Vercken"

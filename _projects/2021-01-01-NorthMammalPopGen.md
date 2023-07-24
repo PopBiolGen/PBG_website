@@ -37,11 +37,11 @@ To conserve threatened species, conservation biologists have been required to ma
 
 In this context, this project has three principal aims:
 
-# Develop and showcase modern methods for analysing, interpreting and presenting genomic and habitat niche data.
+1. Develop and showcase modern methods for analysing, interpreting and presenting genomic and habitat niche data.
 
-# Further our understanding of the importance of different habitat types and environmental conditions as refuges for adaptive potential in threatened species.
+2. Further our understanding of the importance of different habitat types and environmental conditions as refuges for adaptive potential in threatened species.
 
-# Provide management agencies with critically-important data-driven conservation advice to promote the persistence of mammals in northern Australia.
+3. Provide management agencies with critically-important data-driven conservation advice to promote the persistence of mammals in northern Australia.
 
 This project is generating crucial biological information to improve conservation assessment and planning and involves partnerships between CDU, NT DEPWS, WA DBCA and the NCRIS-funded Oz Mammal Genomics Initiative (Bioplatforms Australia). It provides core information relevant to developing biodiversity research partnerships on the Tiwi Islands, Kakadu National Park and north-east Arnhem Land.
 

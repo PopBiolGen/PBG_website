@@ -2,3 +2,33 @@ Department of Biodiversity Conservation and Attractions (WA):
   title: "DBCA"
   image_path: "https://www.dbca.wa.gov.au/themes/custom/dbca_b5/logo.svg"
   url: "https://www.dbca.wa.gov.au/"
+
+Department of Environment, Parks and Water Security (NT):
+  title: "DEPWS"
+  image_path: "https://nt.gov.au/__data/assets/file/0003/1009830/ntg-logo-mono.svg"
+  url: "https://nt.gov.au/"
+  
+Darwin Snake Catchers:
+  title: "DarwinSnakeCatchers"
+  image_path: "https://scontent.fadl8-1.fna.fbcdn.net/v/t39.30808-6/292040547_492489746013763_4567210739262745224_n.png?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=30RqVYWsciAAX-qUx8a&_nc_oc=AQnwV_OrPoTjrwEJZQkqberQvZhaZ2at4GA4f4uICtAkkvQkWSgbKMq73r4H4ybgz28&_nc_ht=scontent.fadl8-1.fna&oh=00_AfB-2DjUOvfhSq3TEMPIfrnljk8MAGMOcxEqh2hLpf2cJA&oe=64C3C9F0"
+  url: "https://www.facebook.com/darwinsnakecatchers/"
+  
+Charles Darwin University:
+  title: "CDU"
+  image_path: "https://www.universitiesaustralia.edu.au/wp-content/uploads/2019/05/CDU-1-300x300.png"
+  url: "https://www.cdu.edu.au/"
+  
+Forrest Research Foundation:
+  title: "Forrest"
+  image_path: "https://www.forrestresearch.org.au/wp-content/uploads/2018/02/logo_rev_large-1-300x192.png"
+  url: "https://www.forrestresearch.org.au/"
+  
+Kakadu National Park:
+  title: "KNP"
+  image_path:
+  url: "https://parksaustralia.gov.au/kakadu/"
+  
+Australian Wildlife Conservancy:
+  title: "AWC"
+  image_path: "https://australianwild.wpenginepowered.com/wp-content/uploads/2021/07/cropped-AWC-Logo__30-Years_White-01.png"
+  url: "https://australianwildlife.org/"

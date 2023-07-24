@@ -19,7 +19,6 @@ collaborators:
   - name: "Tony Griffiths"
   - name: "Peter McDonald"
   - name: "Luke Einoder"
-
 header:
   teaser: "assets/images/projects/BellatoriasCJ.png"
 gallery:

@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Some of our projects (current and historical)
+Some of our projects (current and historical).

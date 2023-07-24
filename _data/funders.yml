@@ -1,23 +1,23 @@
 Australian Research Council:
   logo: "https://www.arc.gov.au/themes/custom/arc_bootstrap_sass/logo.svg"
   url: "https://www.arc.gov.au/"
-  
-Hermon Slade Foundation:
-  logo: "http://www.hermonslade.org.au/wp-content/uploads/2019/11/Mask-Group-1.png"
-  url: "http://www.hermonslade.org.au/"
-  
+
+Australian Government National Landcare Program:
+  image_path: "https://www.perthnrm.com/nrmwp/wp-content/uploads/2020/04/NLPHorizontalLogo-Feature.png"
+  url: "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/natural-resources/landcare/national-landcare-program"
+
 Charles Darwin University:
   image_path: "https://www.universitiesaustralia.edu.au/wp-content/uploads/2019/05/CDU-1-300x300.png"
   url: "https://www.cdu.edu.au/"
     
-Australian Government National Landcare Program:
-  image_path: "https://www.perthnrm.com/nrmwp/wp-content/uploads/2020/04/NLPHorizontalLogo-Feature.png"
-  url: "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/natural-resources/landcare/national-landcare-program"
-  
 Forrest Research Foundation:
   title: "Forrest"
   image_path: "https://www.forrestresearch.org.au/wp-content/uploads/2018/02/logo_rev_large-1-300x192.png"
   url: "https://www.forrestresearch.org.au/"
+  
+Hermon Slade Foundation:
+  logo: "http://www.hermonslade.org.au/wp-content/uploads/2019/11/Mask-Group-1.png"
+  url: "http://www.hermonslade.org.au/"
   
 Western Australian Government:
   title: "WAG"

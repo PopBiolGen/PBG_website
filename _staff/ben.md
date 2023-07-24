@@ -1,5 +1,4 @@
 ---
-layout: single
 title:
 permalink: /team/ben/
 author_profile: true

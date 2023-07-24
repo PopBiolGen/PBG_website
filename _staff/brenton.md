@@ -1,5 +1,4 @@
 ---
-layout: single
 title:
 permalink: /team/brenton/
 author_profile: true

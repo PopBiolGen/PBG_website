@@ -128,6 +128,18 @@ defaults:
       author_profile: false
       classes: wide
       sidebar: true
+  # _staff
+  - scope:
+      path: "_staff"
+      type: staff
+    values:
+      layout: single
+  # _students
+  - scope:
+      path: "_students"
+      type: students
+    values:
+      layout: single
 
 category_archive:
   type: liquid

@@ -1,0 +1,68 @@
+---
+title: Coronavirus forecast
+date: 2020-03-12 16:29:17.000000000 +08:00
+categories:
+  - blog
+tags:
+author: Ben Phillips
+---
+<p><!-- wp:paragraph --></p>
+<p>I've made a<a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://benflips.shinyapps.io/nCovForecast/" target="_blank"> shiny app</a> that gives a ten-day forecast, by country, on likely numbers of coronavirus cases.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The app is designed to give people a sense of how fast this epidemic is progressing, as well as one of the key uncertainties; the true number of cases.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>At last update (23 March 2020), it is very impressive to see how things are progressing in China, Korea, and Japan, and quite alarming to see how things are progressing elsewhere.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The top graph gives the raw number of cases each day, with a ten-day projection.  The projection is based on the bottom graph, which are the same data plotted on a log scale: exponential growth presents as a straight line on the log scale.  So I fit a straight line to the last ten days of data, extrapolate it by ten days, and project that up onto the original scale in the top graph.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>If your country is missing from the app, it is because you have fewer than 30 active cases.  As case number breaches this threshold, your country will appear.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>Raw/Active cases</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Raw cases is the total number of cases reported to the WHO.  As of 23 March, collation of data on recoveries ceased.  As of 23 March, active cases is raw cases, minus reported deaths, minus <em>approximate</em> recoveries.  To approximate the number of recoveries, I assume it takes <a rel="noreferrer noopener" aria-label="22 days (opens in a new tab)" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext" target="_blank">22 days</a> for recovery, so Active cases is raw cases minus raw cases 22 days ago (corrected for deaths), minus deaths.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>Doubling time</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>I estimate the instantaneous growth rate over the last ten days, r, using simple regression on the log scale and calculate doubling time as ln(2)/r.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>Detection</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>I have also made a (very) rough estimate of the proportion of cases that are being detected in each country.  This is very rough (have I said "very" enough?), and there are often not many data.  The method assumes that there is community transmission, deaths do not go unnoticed, that the case fatality rate of symptomatic (infective) people is about <a rel="noreferrer noopener" aria-label="3.3% (opens in a new tab)" href="https://www.medrxiv.org/content/10.1101/2020.03.04.20031104v1.full.pdf" target="_blank">3.3%</a> and it takes about <a rel="noreferrer noopener" aria-label="17 days (opens in a new tab)" href="https://doi.org/10.1016/S0140-6736(20)30566-3" target="_blank">17 days</a> for people that are going to die to die.  Under these assumptions we look at the number of deaths in a five day period, and estimate the number of symptomatic infections required to generate these deaths (expected = deaths/0.033), we compare that to the number of new cases detected in the five day period 17 days earlier (observed), and use observed/expected to estimate a detection probability.  Please take this number with a big dose of salt, but it does give you some indication of how good/bad it might be in each country.  For some countries there are insufficient data to even make this estimate.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>Curve flattening</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>The goal of every community in this pandemic should be to <a rel="noreferrer noopener" aria-label="flatten the pandemic curve (opens in a new tab)" href="https://www.wired.com/story/whats-social-distancing-flattening-curve-covid-19-questions/" target="_blank">flatten the pandemic curve</a>.  I've made an index so you can see how well your country is doing.  This index takes the function of log(active cases) against time and calculates the slope of that function as well as the change in slope.  The index is calculated as the change in slope divided by the absolute value of slope (so the change you are achieving at any time is relative to steepness of the slope at that time). I then multiply the index by negative one, so positive numbers are good, negative numbers are bad.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>Growth Rate</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>The per day growth rate is calculated as the change in number of infected people between day t and day t-1, divided by the number infected on day t-1.  This gives a per-infection per day growth rate.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>This is a work in progress</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>The code is now up on <a href="https://github.com/benflips/nCovForecast">github</a>.  Anyone that would like to help make this app better (particularly the detection estimation), please get in contact.  This is all correlative at present, no mechanism anywhere; would be great to work SIR into the backend (which will take time, and the current trajectories are sufficiently concerning as to warrant speed at this time).  Alex Perkin's group at U Notre Dame have built such <a rel="noreferrer noopener" aria-label="a model for the US (opens in a new tab)" href="https://twitter.com/TAlexPerkins/status/1237513140578865153" target="_blank">a model for the US</a>, and (as 0f 14 March) our estimate of the number of undiagnosed cases in the US (about 100,000) was eerily similar, and alarming.  Alison Hill at Harvard has built a lovely <a rel="noreferrer noopener" aria-label="Shiny app (opens in a new tab)" href="https://alhill.shinyapps.io/COVID19seir/" target="_blank">Shiny app</a> with an SEIR model, and we are working to push data to her interface now.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The app is based off data collated by the team at John Hopkins University for their really excellent <a rel="noreferrer noopener" aria-label="global coronavirus tracker (opens in a new tab)" href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" target="_blank">global coronavirus tracker</a>. In large countries with many states/provinces people will be wanting more localised reporting.  The John Hopkins data reports down to State/Province level, so my code would be a great place to start for anyone wanting to develop country-specific apps.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>Acknowledgements</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Various people on twitter have made suggestions and caught bugs along the way.  Thanks for the feedback.  Matteo Tomasini (Michigan State University) and Daniel Bolnick (University of Connecticut) are helping with the code, data and ideas.</p>
+<p><!-- /wp:paragraph --></p>

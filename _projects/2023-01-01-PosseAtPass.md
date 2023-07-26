@@ -8,9 +8,11 @@ end_date: 2027
 led_from: "Curtin University"
 funders:
   - name: "Western Australian Government"
+  - name: "Curtin University"
 industry_partners:
   - name: "Department of Biodiversity Conservation and Attractions (WA)"
 collaborators:
+  - name: Brenton von Takach
   - name: "Ben Phillips"
   - name: "Kym Ottewell"
   - name: "Robyn Shaw"

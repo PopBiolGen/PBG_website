@@ -6,6 +6,11 @@ Australian Government National Landcare Program:
   image_path: "https://www.perthnrm.com/nrmwp/wp-content/uploads/2020/04/NLPHorizontalLogo-Feature.png"
   url: "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/natural-resources/landcare/national-landcare-program"
 
+Bioplatforms Australia:
+  title: "Bioplatforms"
+  image_path: "https://data.bioplatforms.com/BIO-RGB_Full-NEG_Portal_TRANS2_small.webp"
+  url: "https://data.bioplatforms.com/organization/about/bpa-omg"
+
 Charles Darwin University:
   image_path: "https://www.universitiesaustralia.edu.au/wp-content/uploads/2019/05/CDU-1-300x300.png"
   url: "https://www.cdu.edu.au/"
@@ -19,7 +24,7 @@ Hermon Slade Foundation:
   logo: "http://www.hermonslade.org.au/wp-content/uploads/2019/11/Mask-Group-1.png"
   url: "http://www.hermonslade.org.au/"
   
-Western Australian Government:
+WA Government Department of Jobs Tourism Science and Innovation:
   title: "WAG"
   image_path: "https://dsdwa.blob.core.windows.net/web/sfimages/default-source/default-album/jtsi-high-res-logo.jpg?sfvrsn=609b6d1c_2"
   url: "https://www.wa.gov.au/organisation/department-of-jobs-tourism-science-and-innovation"

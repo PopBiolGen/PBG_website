@@ -9,6 +9,7 @@ led_from: "Charles Darwin University"
 funders:
   - name: "Charles Darwin University"
   - name: "Forrest Research Foundation"
+  - name: "Bioplatforms Australia"
 industry_partners:
   - name: "Department of Biodiversity Conservation and Attractions (WA)"
   - name: "Australian Wildlife Conservancy"

@@ -23,7 +23,7 @@ gallery:
 ---
 
 
-Analysis of the spatiotemporal patterns of animal occurrence data can provide insight into the distribution, abundance, and dynamics of populations, which is essential for the development and implementation of effective conservation and management strategies for biodiversity.
+Analysis of the spatiotemporal patterns of animal occurrence data can provide insight into the distribution, abundance, and dynamics of populations. This knowledge is essential for the development and implementation of effective conservation and management strategies for biodiversity, particularly in urban areas.
 
 Human–snake interactions are a global issue that has significant impacts on both human and snake populations, with an estimated 2.5 million snake bites per year, leading to between 81,000 and 138,000 deaths annually. By identifying when and where snakes are most active in urban areas, conservationists and managers can take steps to mitigate conflicts between snakes and humans, such as by educating the public about snake behaviour and providing guidance on how to safely coexist with snakes. Additionally, understanding the seasonal patterns of snake occurrences can aid in the development of targeted conservation strategies, such as identifying key habitats for snakes and ensuring their protection throughout the year.
 

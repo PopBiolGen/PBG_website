@@ -42,7 +42,7 @@ include:
 exclude:
   - .Rproj.user/
   - _posts/z-templates/
-  - _projects/projectRefs/
+  - _assets/pubs
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules

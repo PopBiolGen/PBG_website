@@ -14,6 +14,10 @@ Bioplatforms Australia:
 Charles Darwin University:
   image_path: "https://www.universitiesaustralia.edu.au/wp-content/uploads/2019/05/CDU-1-300x300.png"
   url: "https://www.cdu.edu.au/"
+  
+Curtin University:
+  logo: "https://www.curtin.edu.au/wp-content/themes/mimas/dist/icons/logo-curtin.svg"
+  url:  "https://www.curtin.edu.au/"
     
 Forrest Research Foundation:
   title: "Forrest"
@@ -23,6 +27,10 @@ Forrest Research Foundation:
 Hermon Slade Foundation:
   logo: "http://www.hermonslade.org.au/wp-content/uploads/2019/11/Mask-Group-1.png"
   url: "http://www.hermonslade.org.au/"
+  
+The University of Melbourne:
+  logo: "https://d2glwx35mhbfwf.cloudfront.net/v13.7.2/logo-with-padding.svg"
+  url: "https://www.unimelb.edu.au/"
   
 WA Government Department of Jobs Tourism Science and Innovation:
   title: "WAG"

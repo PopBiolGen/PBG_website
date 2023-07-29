@@ -7,6 +7,8 @@ main:
     url: /team/
   - title: "News"
     url: /news/
+  - title: "Blog"
+    url: /blog/
   - title: "Gallery"
     url: /gallery/
   - title: "Publications"

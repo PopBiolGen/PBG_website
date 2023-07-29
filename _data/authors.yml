@@ -6,7 +6,7 @@ Ben Phillips:
   position: "Premier's Science Fellow"
   institution: Curtin University
   email: ben.l.phillips@curtin.edu.au
-  home: "https://benflips.github.io/PBG/team/ben/"
+  home: "/team/ben/"
   bio    : "Professor of population biology at Curtin"
   links:
     - label: "Website"
@@ -36,7 +36,7 @@ Brenton von Takach:
   position: "Premier's EMC Fellow"
   institution: Curtin University
   email: brenton.vontakach@curtin.edu.au
-  home: "https://benflips.github.io/PBG/team/brenton/"
+  home: "/team/brenton/"
   bio    : "Research Fellow studying population ecology and genomics at Curtin"
   links:
     - label: "Twitter"

@@ -1,7 +1,7 @@
 ---
 title: Blogs
 layout: category
-permalink: /categories/blog
+permalink: /blog
 taxonomy: blog
 ---
 

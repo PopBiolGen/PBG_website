@@ -135,6 +135,7 @@ defaults:
       type: staff
     values:
       layout: staff
+      projects: true
   # _students
   - scope:
       path: "_students"

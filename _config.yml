@@ -87,8 +87,6 @@ collections:
   students:
   projects:
     output: true
-  categories:
-    output: true
 
 # footer:
 #   links:
@@ -143,12 +141,6 @@ defaults:
       type: students
     values:
       layout: single
-  # _categories
-  - scope:
-      path: ""
-      type: categories
-    values:
-      layout: category
 
 category_archive:
   type: liquid

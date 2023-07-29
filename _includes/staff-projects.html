@@ -1,4 +1,4 @@
-{% assign projList=site.projects | where:"collaborators", {{page.author}} %}
+{% assign projList=site.projects | where:"collaborators", {{page.author}} | sort:"start_date" | reverse  %}
 <h2>Projects</h2>
 {% for proj in projList %}
 <a href="{{ proj.url | relative_url }}" class="btn btn--primary">{{ proj.short_name | default: "Direct Link" }}</a>

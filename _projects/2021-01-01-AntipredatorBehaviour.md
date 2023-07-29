@@ -7,16 +7,16 @@ start_date: 2021
 end_date:
 led_from: "University of Western Australia"
 funders:
-  - name: "Hermon Slade Foundation"
+  - "Hermon Slade Foundation"
 industry_partners:
-  - name: "Department of Biodiversity Conservation and Attractions (WA)"
+  - "Department of Biodiversity Conservation and Attractions (WA)"
 collaborators:
-  - name: "Nicki Mitchell"
-  - name: "Natasha Harrison"
-  - name: "Adrian Wayne"
-  - name: "Ben Phillips"
-  - name: "Jan Hemmi"
-  - name: "Leonie Valentine"
+  - "Nicki Mitchell"
+  - "Natasha Harrison"
+  - "Adrian Wayne"
+  - "Ben Phillips"
+  - "Jan Hemmi"
+  - "Leonie Valentine"
 header:
   teaser: "assets/images/projects/2016-12-19_11_07_43-Woylie_Kanyana Wildlife.png"
 gallery:

@@ -7,16 +7,16 @@ start_date: 2023
 end_date: 2027
 led_from: "Curtin University"
 funders:
-  - name: "Western Australian Government"
-  - name: "Curtin University"
+  - "Western Australian Government"
+  - "Curtin University"
 industry_partners:
-  - name: "Department of Biodiversity Conservation and Attractions (WA)"
+  - "Department of Biodiversity Conservation and Attractions (WA)"
 collaborators:
-  - name: Brenton von Takach
-  - name: "Ben Phillips"
-  - name: "Kym Ottewell"
-  - name: "Robyn Shaw"
-  - name: "Anthony Santoro"
+  - Brenton von Takach
+  - "Ben Phillips"
+  - "Kym Ottewell"
+  - "Robyn Shaw"
+  - "Anthony Santoro"
 header:
   teaser: "assets/images/projects/unknownbuggything.png"
 gallery:

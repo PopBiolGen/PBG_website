@@ -7,12 +7,12 @@ start_date: 2017
 end_date: 2022
 led_from: "University of Melbourne"
 funders:
-  - name: "Australian Research Council"
-  - name: "The University of Melbourne"
+  - "Australian Research Council"
+  - "The University of Melbourne"
 industry_partners:
-  - name: "Kenbi Rangers"
+  - "Kenbi Rangers"
 collaborators:
-  - name: "Ben Phillips"
+  - "Ben Phillips"
 header:
   teaser: "assets/images/projects/quollRelease.png"
 gallery:

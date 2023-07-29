@@ -7,18 +7,18 @@ start_date: 2022
 end_date: 2023
 led_from: "Territory Natural Resource Management"
 funders:
-  - name: "Australian Government National Landcare Program"
+  - "Australian Government National Landcare Program"
 industry_partners:
-  - name: "Department of Environment, Parks and Water Security (NT)"
-  - name: "Kakadu National Park"
+  - "Department of Environment, Parks and Water Security (NT)"
+  - "Kakadu National Park"
 collaborators:
-  - name: "Emily Hoffmann"
-  - name: "Kelly Dixon"
-  - name: "Brett Murphy"
-  - name: "Chris Jolly"
-  - name: "Tony Griffiths"
-  - name: "Peter McDonald"
-  - name: "Luke Einoder"
+  - "Emily Hoffmann"
+  - "Kelly Dixon"
+  - "Brett Murphy"
+  - "Chris Jolly"
+  - "Tony Griffiths"
+  - "Peter McDonald"
+  - "Luke Einoder"
 header:
   teaser: "assets/images/projects/BellatoriasCJ.png"
 gallery:

@@ -48,7 +48,7 @@ layout: default
         {% endif %}
         {{ content }}
         
-        {% if page.projects %}{% include staff.projects.html %}{% endif %}
+        {% if page.projects %}{% include staff-projects.html %}{% endif %}
         
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>

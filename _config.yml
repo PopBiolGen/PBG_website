@@ -87,6 +87,8 @@ collections:
   students:
   projects:
     output: true
+  categories:
+    output: true
 
 # footer:
 #   links:

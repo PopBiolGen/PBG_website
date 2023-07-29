@@ -1,7 +1,7 @@
 ---
 title: News
 layout: category
-permalink: /news
+permalink: /news/
 taxonomy: news
 ---
 

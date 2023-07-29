@@ -10,7 +10,7 @@
     <h3>Chief Investigators</h3>
     <ul>
       {% for cc in page.collaborators %}
-        <li><a href={{site.data.collaborators[cc.name].url}}>{{cc.name}}</a> at {{site.data.collaborators[cc.name].affiliation}}</li>
+        <li><a href={{site.data.collaborators[cc].url}}>{{cc}}</a> at {{site.data.collaborators[cc].affiliation}}</li>
       {% endfor %}
     </ul>
     {% endif %}
@@ -19,7 +19,7 @@
     <h3>Industry partners</h3>
     <ul>
       {% for ii in page.industry_partners %}
-        <li><a href={{site.data.partners[ii.name].url}}>{{ii.name}}</a></li>
+        <li><a href={{site.data.partners[ii].url}}>{{ii}}</a></li>
       {% endfor %}
     </ul>
     {% endif %}
@@ -28,7 +28,7 @@
     <h3>Funded by</h3>
     <ul>
       {% for ff in page.funders %}
-        <li><a href={{site.data.funders[ff.name].url}}>{{ff.name}}</a></li>
+        <li><a href={{site.data.funders[ff].url}}>{{ff}}</a></li>
       {% endfor %}
     </ul>
     {% endif %}

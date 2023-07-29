@@ -7,23 +7,23 @@ start_date: 2019
 end_date: 2023
 led_from: "Charles Darwin University"
 funders:
-  - name: "Charles Darwin University"
-  - name: "Forrest Research Foundation"
-  - name: "Bioplatforms Australia"
+  - "Charles Darwin University"
+  - "Forrest Research Foundation"
+  - "Bioplatforms Australia"
 industry_partners:
-  - name: "Department of Biodiversity Conservation and Attractions (WA)"
-  - name: "Australian Wildlife Conservancy"
-  - name: "Department of Environment, Parks and Water Security (NT)"
+  - "Department of Biodiversity Conservation and Attractions (WA)"
+  - "Australian Wildlife Conservancy"
+  - "Department of Environment, Parks and Water Security (NT)"
 collaborators:
-  - name: "Sam Banks"
-  - name: "Skye Cameron"
-  - name: "Kym Ottewell"
-  - name: "Teigan Cremona"
-  - name: "Brett Murphy"
-  - name: "Brydie Hill"
-  - name: "Cara Penton"
-  - name: "Linette Umbrello"
-  - name: "Ben Phillips"
+  - "Sam Banks"
+  - "Skye Cameron"
+  - "Kym Ottewell"
+  - "Teigan Cremona"
+  - "Brett Murphy"
+  - "Brydie Hill"
+  - "Cara Penton"
+  - "Linette Umbrello"
+  - "Ben Phillips"
 
 header:
   teaser: "assets/images/projects/BFTR.png"

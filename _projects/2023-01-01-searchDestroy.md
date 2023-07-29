@@ -7,12 +7,12 @@ start_date: 2023
 end_date: 2027
 led_from: "Curtin University"
 funders:
-  - name: "Western Australian Government"
-  - name: "Curtin University"
+  - "Western Australian Government"
+  - "Curtin University"
 industry_partners:
 collaborators:
-  - name: "Ben Phillips"
-  - name: "Brenton von Takach"
+  - "Ben Phillips"
+  - "Brenton von Takach"
 header:
   teaser: "assets/images/Toad.png"
 gallery:

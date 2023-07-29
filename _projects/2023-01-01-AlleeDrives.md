@@ -7,13 +7,13 @@ start_date: 2023
 end_date:
 led_from: "Curtin University"
 funders:
-  - name: "Australian Research Council"
+  - "Australian Research Council"
 industry_partners:
 collaborators:
-  - name: "Ben Phillips"
-  - name: "Charlie Robin"
-  - name: "Nick Golding"
-  - name: "Elodie Vercken"
+  - "Ben Phillips"
+  - "Charlie Robin"
+  - "Nick Golding"
+  - "Elodie Vercken"
 header:
   teaser: "assets/images/projects/AlleeDrive.png"
 gallery:

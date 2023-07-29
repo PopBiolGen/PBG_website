@@ -8,13 +8,14 @@ end_date: Never
 led_from: "Curtin University"
 funders:
 industry_partners:
-  - name: "Darwin Snake Catchers"
+  - "Darwin Snake Catchers"
 collaborators:
-  - name: "Chris Jolly"
-  - name: "Damian Lettoof"
-  - name: "Tom Parkin"
-  - name: "Alana de Laive"
-  - name: "Luke Allen"
+  - "Chris Jolly"
+  - "Brenton von Takach"
+  - "Damian Lettoof"
+  - "Tom Parkin"
+  - "Alana de Laive"
+  - "Luke Allen"
 header:
   teaser: "assets/images/projects/lessblackwhip.png"
 gallery:

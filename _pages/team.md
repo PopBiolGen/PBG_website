@@ -4,6 +4,7 @@ title: "Team"
 toc: true
 toc_sticky: true
 ---
+
 ## Staff
 
 {% for person in site.staff %}

@@ -11,7 +11,7 @@ Opportunities regularly emerge to work with us, and sometimes you can make your 
 
 ## Honours / Masters
 
-Students looking to do Honours or Masters will typically take on a slightly more ‘received’ project.  This is not to say that the project will be prescriptive, but rather that we’ll have a strong role in defining the questions and techniques that you might use.  The transition from undergraduate study to running your own research project can be equal parts daunting and exhilarating.  Our job is to support you through the ups and downs of that journey, and to help you produce publication-standard work.  
+The transition from undergraduate study to running your own research project can be equal parts daunting and exhilarating.  Our job is to support you through the ups and downs of that journey, and to help you produce publication-standard work. Students looking to do Honours or Masters will typically take on a slightly more ‘received’ project.  This is not to say that the project will be prescriptive, but rather that we’ll have a strong role in defining the questions and techniques that you might use.    
 
 ## PhD
 

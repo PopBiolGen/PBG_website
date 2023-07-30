@@ -1,6 +1,8 @@
 ---
 title: Opportunities
 permalink: /opportunities/
+toc: true
+toc_sticky: true
 ---
 
 # Opportunities
@@ -21,8 +23,8 @@ Given the time and resource commitment required to execute high quality PhD-leve
 
 Having completed their PhD, Postdocs are fully-fledged researchers and so expected to be quite independent.  We encourage postdocs in our group to drive their own research agenda, to engage with the supervision of graduate students, and to build their careers.
 
-As new projects start we will have, from time to time, postdoctoral positions that come up.  For exceptionally strong candidates, it is also possible to make your own opportunities in this space, through fellowship schemes such as the Forrest Fellowship, or the ARC DECRA fellowship.  Again, it is worth having a chat with us if you see an alignment and want to take a tilt at an externally funded fellowship.
+As new projects start we will have, from time to time, postdoctoral positions that come up.  These will usually be advertised.  For exceptionally strong candidates, it is also possible to make your own opportunities in this space, through fellowship schemes such as the Forrest Fellowship, or the ARC DECRA fellowship.  Again, it is worth having a chat with us if you see an alignment and want to take a tilt at an externally funded fellowship.
 
 ## Contact
 
-If you would like to work with us in any capacity, please drop either [Ben]({{ site.data.authors["Ben Phillips"].home | relative_url }}) or [Brenton]({{site.data.authors["Brenton von Takach"].home | relative.url}}) a line.  Simplest is an email introducing yourself and a copy of your academic transcript and CV.  Including these two pieces will allow us to give you an informed reply.
+If you would like to work with us in any capacity, please drop either [Ben]({{site.data.authors["Ben Phillips"].home | relative_url}}) or [Brenton]({{site.data.authors["Brenton von Takach"].home | relative.url}}) a line.  Simplest is an email introducing yourself and a copy of your academic transcript and CV.  Including these two pieces will allow us to give you an informed reply.

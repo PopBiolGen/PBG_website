@@ -14,8 +14,9 @@ industry_partners:
 collaborators:
   - "Emily Hoffmann"
   - "Kelly Dixon"
-  - "Brett Murphy"
   - "Chris Jolly"
+  - "Brenton von Takach"
+  - "Brett Murphy"
   - "Tony Griffiths"
   - "Peter McDonald"
   - "Luke Einoder"

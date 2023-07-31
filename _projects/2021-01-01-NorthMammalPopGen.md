@@ -15,6 +15,7 @@ industry_partners:
   - "Australian Wildlife Conservancy"
   - "Department of Environment, Parks and Water Security (NT)"
 collaborators:
+  - "Brenton von Takach"
   - "Sam Banks"
   - "Skye Cameron"
   - "Kym Ottewell"

@@ -12,7 +12,7 @@ funders:
 industry_partners:
   - "Department of Biodiversity Conservation and Attractions (WA)"
 collaborators:
-  - Brenton von Takach
+  - "Brenton von Takach"
   - "Ben Phillips"
   - "Kym Ottewell"
   - "Robyn Shaw"

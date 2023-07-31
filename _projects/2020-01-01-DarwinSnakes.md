@@ -10,8 +10,8 @@ funders:
 industry_partners:
   - "Darwin Snake Catchers"
 collaborators:
-  - "Chris Jolly"
   - "Brenton von Takach"
+  - "Chris Jolly"
   - "Damian Lettoof"
   - "Tom Parkin"
   - "Alana de Laive"

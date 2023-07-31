@@ -7,7 +7,7 @@
     <p>Led from {{page.led_from}}</p>
     
     {% if page.collaborators %}
-    <h3>Chief Investigators</h3>
+    <h3>Collaborators</h3>
     <ul>
       {% for cc in page.collaborators %}
         <li><a href={{site.data.collaborators[cc].url}}>{{cc}}</a> at {{site.data.collaborators[cc].affiliation}}</li>

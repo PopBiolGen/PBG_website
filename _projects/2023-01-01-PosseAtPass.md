@@ -15,6 +15,7 @@ collaborators:
   - "Brenton von Takach"
   - "Ben Phillips"
   - "Kym Ottewell"
+  - "Damian Lettoof"
   - "Robyn Shaw"
   - "Anthony Santoro"
 header:

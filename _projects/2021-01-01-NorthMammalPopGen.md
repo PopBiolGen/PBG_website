@@ -55,7 +55,10 @@ Species that have had data collected and analysed as part of this project includ
 
 ## Progress
 
-This project begun at Charles Darwin University where Brenton helped Prof Sam Banks establish the Molecular Ecology Lab as a postdoctoral research fellow. Brenton moved to Curtin University in Perth in 2021 to start a Forrest Prospect Fellowship, building on their work at CDU. The project is currently in the final stages, with Brenton moving on to new projects based in south-western Australia. Some fantastic knowledge has been created as a result of this project and the outputs are being used to aid conservation management actions for several mammal species in northern Australia. Brenton and colleagues have produced a range of relevant publications relating to this work, including:
+This project begun at Charles Darwin University where Brenton helped Prof Sam Banks establish the Molecular Ecology Lab as a postdoctoral research fellow. Brenton moved to Curtin University in Perth in 2021 to start a Forrest Prospect Fellowship, building on their work at CDU. The project is currently in the final stages, with Brenton moving on to new projects based in south-western Australia. Some fantastic knowledge has been created as a result of this project and the outputs are being used to aid conservation management actions for several mammal species in northern Australia.
+
+
+## Selected publications
 
 von Takach, B., Sargent, H., Penton, C. E., Rick, K., Murphy, B. P., Neave, G., Davies, H. F., Hill, B. M., and Banks, S. C. (2023). Population genomics and conservation management of the threatened black-footed tree-rat (*Mesembriomys gouldii*) in northern Australia. *Heredity* **130**, 278–288.
 

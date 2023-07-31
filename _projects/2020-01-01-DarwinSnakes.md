@@ -35,11 +35,13 @@ In the Northern Territory of Australia, professional snake catchers are employed
 {% include gallery caption = "images relevant to the project"%}
 {% endif %}
 
+
 ## Progress
 
 Our Darwin snake ecology project is the brainchild of ecologists with little to do in the NT during the first wave of COVID lockdowns. We had access to a seven-year snake catcher's dataset, courtesy of Tom Parkin, that contains over 5000 high-quality location and date records of snakes in the Darwin region. This project has resulted in several publications and is ongoing. We won't stop until we have fully exhausted the uses of this dataset! If you are interested in conducting an analysis on this dataset (e.g. for an Honours project), please get in touch!
 
-Publications that are currently available online from this project include:
+
+## Selected publications
 
 Lettoof, D. C., Parkin, T. P., Jolly, C. J., de Laive, A., and von Takach, B. (2023). Snake life history traits and their association with urban habitat use in a tropical city. *Urban Ecosystems* 26, 433–445. https://doi.org/10.1007/s11252-023-01327-x
 

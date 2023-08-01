@@ -13,10 +13,20 @@ Skye Cameron:
   affiliation: "Australian Wildlife Conservancy"
   url: "https://www.researchgate.net/profile/Skye-Cameron"
   
+Andrew Coates:
+  name: "Andy Coates"
+  affiliation: "Deakin University"
+  url: 
+  
 Teigan Cremona:
   name: "Teigan Cremona"
   affiliation: "Charles Darwin University"
   url: "https://scholar.google.com.au/citations?user=yWGGBukAAAAJ&hl=en"
+  
+Tim Dempster:
+  name: "Tim Dempster"
+  affiliation: "Deakin University"
+  url: "https://www.deakin.edu.au/about-deakin/people/tim-dempster"
 
 Kelly Dixon:
   name: "Kelly Dixon"
@@ -112,6 +122,11 @@ Charlie Robin:
   name: "Charlie Robin"
   affiliation: "University of Melbourne"
   url: "https://findanexpert.unimelb.edu.au/profile/6345-charles-robin"
+  
+Nick Robinson:
+  name: "Nick Robinson"
+  affiliation: "NOFIMA Norway"
+  url: "https://nofima.com/employee/nicholas-andrew-robinson/"
 
 Anthony Santoro:
   name: "Anthony Santoro"

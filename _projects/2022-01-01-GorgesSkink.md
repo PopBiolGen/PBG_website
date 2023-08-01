@@ -27,9 +27,9 @@ gallery:
     image_caption: 
 ---
 
-The Arnhem Land Gorges Skink (*Bellatorias obiri*) is one of Australia’s most threatened species, and at high risk of becoming extinct by 2040. With very few known records of the species from the past 20 years, and they are only being known to persist at a single location, and is in dire need of surveys and protection.
+The Arnhem Land Gorges Skink (*Bellatorias obiri*) is one of Australia’s most threatened species, and at high risk of becoming extinct by 2040. With very few known records from the past 20 years, and the species only being known to persist at a single location, it is in dire need of surveys and protection.
 
-Led by Dr Emily Hoffmann, from Territory Natural Resource Management, this project worked closely with Traditional Owners to survey areas of Kakadu National Park from which the species was formerly known to occur. These surveys were conducted over the 2022-2023 wet season using camera traps and eDNA analysis. These methods were chosen because active searching produces poor results when the skinks spend so much of their time deep in rock crevices.
+Led by Dr Emily Hoffmann, from Territory Natural Resource Management, this project is working closely with Traditional Owners to survey areas of Kakadu National Park from which the species was formerly known to occur. These surveys were conducted over the 2022-2023 wet season using camera traps and eDNA analysis. These methods were chosen because active searching produces poor results when the skinks spend so much of their time deep in rock crevices.
 
 Check out the [Territory NRM website](https://www.territorynrm.org.au/) for more information about the project.
 

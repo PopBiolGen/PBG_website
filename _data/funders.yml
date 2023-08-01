@@ -18,10 +18,13 @@ Charles Darwin University:
 Curtin University:
   logo: "https://www.curtin.edu.au/wp-content/themes/mimas/dist/icons/logo-curtin.svg"
   url:  "https://www.curtin.edu.au/"
-    
+
+FHF Norway:
+  logo: "https://www.fhf.no/logo/FHF_logo.png"
+  url: "https://www.fhf.no/fhf/about-fhf-english/"
+  
 Forrest Research Foundation:
-  title: "Forrest"
-  image_path: "https://www.forrestresearch.org.au/wp-content/uploads/2018/02/logo_rev_large-1-300x192.png"
+  logo: "https://www.forrestresearch.org.au/wp-content/uploads/2018/02/logo_rev_large-1-300x192.png"
   url: "https://www.forrestresearch.org.au/"
   
 Hermon Slade Foundation:

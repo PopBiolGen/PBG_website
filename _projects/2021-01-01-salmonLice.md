@@ -36,4 +36,21 @@ This project is well underway. We were fortunate enough to recruit the talented 
 
 This model did a pretty good job of recapitulating the rapid evolution of resistance to chemical controls seen during the early part of this century.  The model also showed that evolution of resistance was faster in some areas than others; purely as a result of the high connectivity between farms in these areas.
 
-The model is ready to receive details of the new control methods from the broader project, but in the meantime we are extending the model to ask general questions about how the evolution and spread of resistance might best be managed.
+The model is ready to receive details of the new control methods from the broader project, but in the meantime we are extending the model to ask general questions about how the evolution and spread of resistance might best be managed.## Selected publications 
+
+
+Robinson, Nicholas. A., Robledo, Diego, Sveen, Lene, Daniels, Rose. Ruiz, Krasnov, Aleksei, Coates, Andrew, Jin, Ye. Hwa, Barrett, Luke. T., Lillehammer, Marie, Kettunen, Anne. H., Phillips, Ben. L., Dempster, Tim, Doeschl‐Wilson, Andrea, Samsing, Francisca, Difford, Gareth, Salisbury, Sarah, Gjerde, Bjarne, Haugen, John‐Erik, Burgerhout, Erik, Dagnachew, Binyam. S., Kurian, Dominic, Fast, Mark. D., Rye, Morten, Salazar, Marcela, Bron, James. E., Monaghan, Sean. J., Jacq, Celeste, Birkett, Mike, Browman, Howard. I., Skiftesvik, Anne. Berit, Fields, David. M., Selander, Erik, Bui, Samantha, Sonesson, Anna, Skugor, Stanko, Østbye, Tone‐Kari. Knutsdatter, Houston, Ross. D. (2022).  Applying genetic technologies to combat infectious diseases in aquaculture  *Reviews in Aquaculture*. ****: raq.12733.
+
+ 
+Coates, Andrew, Robinson, Nick, Dempster, Tim, Samsing, Francisca, Johnsen, Ingrid, Phillips, Ben. L (2022).  A metapopulation model reveals connectivity-driven hotspots in treatment resistance evolution in a marine parasite  *ICES Journal of Marine Science*. ****: fsac202.
+
+ 
+Dempster, T., Overton, K., Bui, S., Stien, L.. H., Oppedal, F., Karlsen, Ø, Coates, A., Phillips, B.. L., Barrett, L.. T. (2021).  Farmed salmonids drive the abundance, ecology and evolution of parasitic salmon lice in Norway  *Aquaculture Environment Interactions*. **13**: 237--248.
+
+ 
+Coates, Andrew, Phillips, Ben. L., Bui, Samantha, Oppedal, Frode, Robinson, Nick. A., Dempster, Tim (2021).  Evolution of salmon lice in response to management strategies: a review  *Reviews in Aquaculture*. **13**: 1397--1422.
+
+ 
+Coates, Andrew, Johnsen, Ingrid. A., Dempster, Tim, Phillips, Ben. L. (2021).  Parasite management in aquaculture exerts selection on salmon louse behaviour  *Evolutionary Applications*. **14**: 2025--2038.
+
+ 

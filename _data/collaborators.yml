@@ -48,6 +48,11 @@ Tony Griffiths:
   affiliation: "NT Department of Environment, Parks and Water Security"
   url: "https://www.researchgate.net/profile/Anthony-Griffiths-2"
 
+Matthew Hall:
+  name: "Matt Hall"
+  affiliation: "Monash University"
+  url: "https://www.monash.edu/science/schools/biological-sciences/staff/matt-hall"
+
 Natasha Harrison:
   name: "Natasha Harrison"
   affiliation: "University of Western Australia"
@@ -162,3 +167,8 @@ Adrian Wayne:
   name: "Adrian Wayne"
   affiliation: "Department of Biodiversity Conservation and Attractions (WA)"
   url: "https://science.dpaw.wa.gov.au/people/?sid=126"
+  
+Jonathan Webb:
+  name: "Jonno Webb"
+  affiliation: "University of Technology, Sydney"
+  url: "https://profiles.uts.edu.au/jonathan.webb"

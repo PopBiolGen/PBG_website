@@ -40,3 +40,13 @@ This project will develop robust behavioural assays to measure anti-predator res
 This project is well underway, led by the highly capable duo of [Nicki Mitchell]({{site.data.collaborators["Nicki Mitchell"].url}}) and [Natasha Harrison]({{site.data.collaborators["Natasha Harrison"].url}}).  The project has already resulted in several publications, not only proofing up behavioural assays, but applying them to investigate trait shift in havened populations of Woylies.
 
 Some fairly simple behavioural assays exhibit reasonable repeatability and exhibit clear shifts between havened and non-havened populations.  The work has attracted considerable media attention. The finding that havened animals may be losing critical traits is of clear public interest and will likely lead to systems not only for monitoring and managing populations, but also the traits these populations carry.  Hopefully the result will be a future-proof conservation strategy!
+
+## Selected publications 
+
+
+Harrison, Natasha. D., Phillips, Ben. L., Mitchell, Nicola. J., Wayne, Julia. C., Maxwell, Marika. A., Ward, Colin. G., Wayne, Adrian. F. (2023).  Perverse outcomes from fencing fauna: Loss of antipredator traits in a havened mammal population  *Biological Conservation*. **281**: 110000.
+
+ 
+Harrison, Natasha. D., Phillips, Ben. L., Hemmi, Jan. M., Wayne, Adrian. F., Steven, Rochelle, Mitchell, Nicola. J. (2021).  Identifying the most effective behavioural assays and predator cues for quantifying anti-predator responses in mammals: a systematic review protocol  *Environmental Evidence*. **10**: 38.
+
+ 

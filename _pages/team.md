@@ -14,7 +14,7 @@ toc_sticky: true
 
 ## Students
 
-Student profiles are coming.  We will are also [recruiting]({{"/opportunities" | relative_url}}) PhD students to start in 2024.
+Student profiles are coming.  We are also [recruiting]({{"/opportunities" | relative_url}}) PhD students to start in 2024.
   
 
 ## Alumni

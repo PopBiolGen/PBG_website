@@ -3,8 +3,8 @@
 library(RefManageR)
 library(knitr)
 
-bibFile <- "assets/pubs/projectRefs/salmonLice.bib"
-projFile <- "_projects/2021-01-01-salmonLice.md"
+bibFile <- "assets/pubs/projectRefs/daphnia.bib"
+projFile <- "_projects/2016-01-01-daphnia.md"
 
 #read data
 bib_data <- ReadBib(bibFile)

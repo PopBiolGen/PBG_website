@@ -14,13 +14,8 @@ toc_sticky: true
 
 ## Students
 
-{% for person in site.students %}
-  <h4> {{person.title}} {{person.name}} </h4>
-  <h5> {{person.position}} </h5>
-  <p> {{person.content | markdownify}} </p>
+Student profiles are coming.  We will are also [recruiting]({{"/opportunities" | relative_url}}) PhD students to start in 2024.
   
-  
-{% endfor %}
 
 ## Alumni
 

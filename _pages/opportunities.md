@@ -27,4 +27,4 @@ As new projects start we will have, from time to time, postdoctoral positions th
 
 ## Contact
 
-If you would like to work with us in any capacity, please drop either [Ben]({{site.data.authors["Ben Phillips"].home | relative_url}}) or [Brenton]({{site.data.authors["Brenton von Takach"].home | relative.url}}) a line.  Simplest is an email introducing yourself and a copy of your academic transcript and CV.  Including these two pieces will allow us to give you an informed reply.
+If you would like to work with us in any capacity, please drop either [Ben]({{site.data.authors["Ben Phillips"].home | relative_url}}) or [Brenton]({{site.data.authors["Brenton von Takach"].home | relative_url}}) a line.  Simplest is an email introducing yourself and a copy of your academic transcript and CV.  Including these two pieces will allow us to give you an informed reply.

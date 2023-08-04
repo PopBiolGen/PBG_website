@@ -9,6 +9,7 @@ led_from: "Territory Natural Resource Management"
 funders:
   - "Australian Government National Landcare Program"
 industry_partners:
+  - "Territory Natural Resource Management"
   - "Department of Environment, Parks and Water Security (NT)"
   - "Kakadu National Park"
 collaborators:

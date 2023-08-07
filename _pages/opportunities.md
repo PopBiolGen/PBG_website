@@ -7,7 +7,7 @@ toc_sticky: true
 
 # Opportunities
 
-Opportunities regularly emerge to work with us, and sometimes you can make your own opportunity. We run an inclusive group, with an emphasis on good supervision over lots of supervision.  We work towards excellence, but are kind towards mistakes that happen along the way. We demand numerical competency of our staff and students, as well as an ability to write well, be self-motivated, and to work independently.  If you already have (or are willing to strive for) these qualities and you have an interest in ecology and evolution, then read on!
+Opportunities regularly emerge to work with us, and sometimes you can make your own opportunity. We run an inclusive group, with an emphasis on good supervision over lots of supervision.  We work towards excellence, but are kind towards mistakes and try to have fun along the way. We demand numerical competency of our staff and students, as well as an ability to write well, be self-motivated, and to work independently.  If you already have (or are willing to strive for) these qualities and you have an interest in ecology and evolution, then read on!
 
 ## Honours / Masters
 

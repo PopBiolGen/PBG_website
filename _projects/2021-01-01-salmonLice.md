@@ -23,7 +23,7 @@ gallery:
 
 Salmon lice are a major pest of salmon farms in Norway.  Salmon lice are an ectoparasitic crustacean that attach themselves to fish and feed on the skin and blood of their host.  On salmon farms, infestations can become severe with impacts on animal welfare and productivity.  Moreover, the large number of lice on farms can spillover to the wild salmon population, causing much higher lice burden than this population would otherwise support.  
 
-Given these impacts, salmon farmers are required to control lice on their farms, and there are a whole range of control techniques they employ. This project was part of a much larger project headed up by Nick Robinson at NOFIMA.  The larger project looks to develop new methods of control.  Our sub-project was tasked with examining the risk that Salmon lice might rapidly adapt to the new control methods.  
+Given these impacts, salmon farmers are required to control lice on their farms, and there are a whole range of control techniques they employ. This project was part of a much [larger project](https://nofima.com/projects/crispresist/) headed up by Nick Robinson at NOFIMA.  The larger project looks to develop new methods of control.  Our sub-project was tasked with examining the risk that Salmon lice might rapidly adapt to the new control methods.  
 
 
 {% if gallery %}

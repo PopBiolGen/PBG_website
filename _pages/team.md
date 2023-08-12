@@ -19,7 +19,7 @@ Student profiles are coming.  We are also [recruiting]({{"/opportunities" | rela
 
 ## Alumni
 
-Serin Subaraj (MSc Curtin 2021-2023, supervised by Damian Lettoof, Brenton von Takach, Bill Bateman, and Ben Phillips). Population dynamics, detectability and behaviour of tiger snakes (*Notechis scutatus*) in Perth's urban wetlands.
+Serin Subaraj (MSc Curtin 2021-2023, supervised by Bill Bateman, Damian Lettoof, Brenton von Takach, and Ben Phillips). Population dynamics, detectability and behaviour of tiger snakes (*Notechis scutatus*) in Perth's urban wetlands.
 
 Adam Smart (PhD UniMelb 2018-2023, supervised by Ben Phillips and Reid Tingley). Genetic back burning to control cane toads.
 
@@ -33,7 +33,7 @@ Matt West (NESP Postdoc UniMelb 2017-2022, supervised by Ben Phillips).  Modelli
 
 Jeff Paril (Postdoc UniMelb 2021, supervised by Ben Phillips). Gene drives for population suppression.
 
-Jari Cornelis (MSc Curtin 2019-2021, supervised by Bill Bateman, Christine Cooper, and Brenton von Takach). The serpent in the Garden of Weeden: a comparison of western tiger snake (*Notechis scutatus occidentalis*) habitat quality and thermal ecology in native and invasive vegetation
+Jari Cornelis (MSc Curtin 2019-2021, supervised by Bill Bateman, Damian Lettoof, Brenton von Takach and Christine Cooper). The serpent in the Garden of Weeden: a comparison of western tiger snake (*Notechis scutatus occidentalis*) habitat quality and thermal ecology in native and invasive vegetation
 
 Sally Drapes (PhD UniMelb 2017-2021, supervised by Ben Phillips, Matt Hall, Luke Holman). Australian *Daphnia* as a model for understanding invasions.
 

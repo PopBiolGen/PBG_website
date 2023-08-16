@@ -42,6 +42,7 @@ Candidates must have:
 - Honours or Masters by research
 - A background or keen interest in ecology, evolution, genetics, statistics, or related discipline.
 
+Applications are open now and will close on the 8th September.
 
 {% assign spv=page.supervisors[0] %}
 Email your CV, academic transcript, and cover letter to <a href="mailto:{{site.data.authors[spv].email}}">{{spv}}</a>.

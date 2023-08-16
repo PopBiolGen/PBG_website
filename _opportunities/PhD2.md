@@ -1,9 +1,10 @@
 ---
 title: "Estimating dispersal from population genomics data"
-excerpt: "Developing new analyses for estimating dispersal from genomics data"
+excerpt: "PhD position: Developing new analyses for estimating dispersal from genomics data"
 short_name: "kinDisperse extensions"
 date: 2023-08-16
 start_date: 2024
+type: PhD
 led_from: "Curtin University"
 supervisors:
   - "Ben Phillips"

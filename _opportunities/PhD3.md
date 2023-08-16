@@ -1,9 +1,10 @@
 ---
 title: "Modelling the spread and control of a malaria vector"
-excerpt: "Working out how to contain the spread of a malaria carrying mosquito species."
+excerpt: "PhD position: Working out how to contain the spread of a malaria carrying mosquito species."
 short_name: "alleeDrive"
 date: 2023-08-16
 start_date: 2024
+type: PhD
 led_from: "Curtin University"
 supervisors:
   - "Nick Golding"

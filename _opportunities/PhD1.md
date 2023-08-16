@@ -1,9 +1,10 @@
 ---
 title: "Highways or back tracks: Understanding animal dispersal and habitat connectivity using genomic data"
-excerpt: "Using genomics to understand animal dispersal."
+excerpt: "PhD position: Using genomics to understand animal dispersal."
 short_name: "landscape resistance"
 date: 2023-08-16
 start_date: 2024
+type: PhD
 led_from: "Curtin University"
 supervisors:
   - "Brenton von Takach"

@@ -1,9 +1,10 @@
 ---
 title: "Estimating the cost and feasibility of pest eradication"
-excerpt: "Using new statistical tools to estimate the effort required to eradicate novel pest species"
+excerpt: "PhD Position: Using new statistical tools to estimate the effort required to eradicate novel pest species"
 short_name: "cost and feasibility"
 date: 2023-08-16
 start_date: 2024
+type: PhD
 led_from: "Curtin University"
 supervisors:
   - "Ben Phillips"

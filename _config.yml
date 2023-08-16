@@ -85,6 +85,7 @@ collections:
   staff:
     output: true
   students:
+    output: true
   projects:
     output: true
 

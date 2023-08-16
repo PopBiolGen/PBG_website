@@ -149,6 +149,15 @@ defaults:
       type: students
     values:
       layout: single
+  # _opportunities
+  - scope:
+      path: "_opportunities"
+      type: opportunities
+    values:
+      layout: opportunities
+      author_profile: false
+      classes: wide
+      sidebar: false
 
 category_archive:
   type: liquid

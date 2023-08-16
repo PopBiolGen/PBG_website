@@ -47,6 +47,11 @@ Some fairly simple behavioural assays exhibit reasonable repeatability and exhib
 Harrison, Natasha. D., Phillips, Ben. L., Mitchell, Nicola. J., Wayne, Julia. C., Maxwell, Marika. A., Ward, Colin. G., Wayne, Adrian. F. (2023).  Perverse outcomes from fencing fauna: Loss of antipredator traits in a havened mammal population  *Biological Conservation*. **281**: 110000.
 
  
+Harrison, Natasha D., Rochelle Steven, Ben L. Phillips, Jan M. Hemmi, Adrian F. Wayne, and Nicola J. Mitchell. (2023) Identifying the Most Effective Behavioural Assays and Predator Cues for Quantifying Anti-Predator Responses in Mammals: A Systematic Review. *Environmental Evidence* 12: 5. https://doi.org/10.1186/s13750-023-00299-x.
+
+
 Harrison, Natasha. D., Phillips, Ben. L., Hemmi, Jan. M., Wayne, Adrian. F., Steven, Rochelle, Mitchell, Nicola. J. (2021).  Identifying the most effective behavioural assays and predator cues for quantifying anti-predator responses in mammals: a systematic review protocol  *Environmental Evidence*. **10**: 38.
+
+
 
  

@@ -49,4 +49,4 @@ Candidates must have:
 
 Applications are open now and will close on the 8th September.
 
-Email your CV, academic transcript, and cover letter to [Nick Golding](nick.golding.research@gmail.com).
+Email your CV, academic transcript, and cover letter to [Nick Golding](mailto:nick.golding.research@gmail.com).

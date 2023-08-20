@@ -7,7 +7,12 @@ Sam Banks:
   name: "Sam Banks"
   affiliation: "Charles Darwin University"
   url: "https://sambanks.weebly.com/"
-      
+
+Justin Borevitz:
+  name: "Justin Borevitz"
+  affiliation: "The Australian National University"
+  url: "https://scholar.google.com.au/citations?hl=en&user=JEG_GroAAAAJ"
+
 Skye Cameron:
   name: "Skye Cameron"
   affiliation: "Australian Wildlife Conservancy"
@@ -88,6 +93,11 @@ Damian Lettoof:
   affiliation: "CSIRO"
   url: "https://scholar.google.com.au/citations?hl=en&user=0hYfXqEAAAAJ"
 
+David Lindenmayer:
+  name: "David Lindenmayer"
+  affiliation: "The Australian National University"
+  url: "https://scholar.google.com.au/citations?hl=en&user=4a2XbLwAAAAJ"
+
 Peter McDonald:
   name: "Peter McDonald"
   affiliation: "NT Department of Environment, Parks and Water Security"
@@ -112,6 +122,11 @@ Tom Parkin:
   name: "Tom Parkin"
   affiliation: "Australian Museum"
   url: "https://australian.museum/get-involved/staff-profiles/tom-parkin/"
+
+Rod Peakall:
+  name: "Rod Peakall"
+  affiliation: "The Australian National University"
+  url: "https://scholar.google.com.au/citations?hl=en&user=r8Q9Ft4AAAAJ"
 
 Cara Penton:
   name: "Cara Penton"

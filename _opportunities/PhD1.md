@@ -54,4 +54,4 @@ If interested, please submit an Expression of Interest via the [Curtin website](
 Applications are open now and will close on the 8th September.
 
 {% assign spv=page.supervisors[0] %}
-Send enquiries to <a href="mailto:{{site.data.authors[spv].email}}">{{spv}}</a>.
+Send enquiries to Dr <a href="mailto:{{site.data.authors[spv].email}}">{{spv}}</a>.

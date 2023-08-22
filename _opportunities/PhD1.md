@@ -49,7 +49,7 @@ Candidates must have:
 See here for details about scholarship:
 [https://scholarships.curtin.edu.au/Scholarship/?id=6855](https://scholarships.curtin.edu.au/Scholarship/?id=6855)
 
-If interested, please submit an Expression of Interest via the [Curtin wesbite](https://forms.curtin.edu.au/Produce/Form/External%20Forms/Expression%20of%20Interest%20for%20Higher%20Degree%20by%20Research/)
+If interested, please submit an Expression of Interest via the [Curtin website](https://forms.curtin.edu.au/Produce/Form/External%20Forms/Expression%20of%20Interest%20for%20Higher%20Degree%20by%20Research/)
 
 Applications are open now and will close on the 8th September.
 

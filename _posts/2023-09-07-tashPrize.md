@@ -1,6 +1,6 @@
 ---
 title: Tash Harrison wins travel grant
-date: 2023-08-04
+date: 2023-09-07
 categories:
   - news
 tags:

@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: PBG @Curtin
+title: ""
+logo: "assets/images/logo/MEDIUM-PNG-FILE-TRANSPARENT-BG.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   A research group based at Curtin University, in Western Australia. Other stuff...

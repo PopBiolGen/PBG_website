@@ -52,6 +52,6 @@ See here for details about scholarship:
 
 If interested, please submit an Expression of Interest via the [Curtin website](https://forms.curtin.edu.au/Produce/Form/External%20Forms/Expression%20of%20Interest%20for%20Higher%20Degree%20by%20Research/)
 
-Applications are open now and will close on the 8th September.
+Applications are open now.
 
 Send enquiries to Prof [Nick Golding](mailto:nick.golding.research@gmail.com).

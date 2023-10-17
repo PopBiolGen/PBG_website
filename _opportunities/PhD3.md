@@ -47,7 +47,7 @@ Candidates must have:
 - Honours or Masters by research
 - A background or keen interest in ecology, evolution, genetics, statistics, or related discipline.
 
-See here for details about scholarship:
+See here for details about scholarship (ignore the bit about the scholarship being closed):
 [https://scholarships.curtin.edu.au/Scholarship/?id=6857](https://scholarships.curtin.edu.au/Scholarship/?id=6857)
 
 If interested, please submit an Expression of Interest via the [Curtin website](https://forms.curtin.edu.au/Produce/Form/External%20Forms/Expression%20of%20Interest%20for%20Higher%20Degree%20by%20Research/)

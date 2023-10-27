@@ -25,8 +25,7 @@ This project aims to investigate and quantify methods for estimating dispersal a
 
 1.	Use ecologically realistic simulations to test the robustness of existing population genetic inference tools.
 2.  Investigate and develop approaches to quantifying directionality of gene flow in populations.
-3.	Extend kin dyad approaches to incorporate mixture distributions and environmental heterogeneity.
-4.	Extend kin dyad approaches to use continuous measures of relatedness.
+3.	Extend kinship approaches for dispersal kernel estimation to incorporate environmental heterogeneity and continuous measures of relatedness
 
 ## Significance
 

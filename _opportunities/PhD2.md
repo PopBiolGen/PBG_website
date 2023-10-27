@@ -15,27 +15,26 @@ permalink: /opportunities/PhD2/
 
 ## Overview
 
-The rate at which invasive populations spread into new areas is determined by their rates of dispersal and population growth.  Of these two rates, dispersal is almost always the harder to estimate, with the tail of dispersal curves being particularly difficult to quantify.  However, estimates of dispersal are vital for any enterprise that seeks to manage populations, as this information helps identify locations to target and actions to use.  Whether we are looking to control or eradicate an invasive pest species, or to assist a threatened native species, an understanding of dispersal matters.  This project develops cutting edge tools for estimating dispersal, using population genomics data.
+Understanding the direction and speed of invasions is critical for effective management. The direction of gene flow is driven by a combination of factors, including population densities and mechanisms of dispersal. The rate at which invasive populations spread into new areas is determined by their rates of dispersal and population growth. In particular, the rate of dispersal is almost always the harder to estimate, with the tail of dispersal curves being  difficult to quantify.  However, estimates of dispersal are vital for any enterprise that seeks to manage populations, as this information helps identify locations to target and actions to use. Whether we are looking to control or eradicate an invasive pest species, or to assist a threatened native species, an understanding of dispersal patterns is vital.
 
 ## Aims
 
-This project looks to develop new analytical tools for estimating patterns of dispersal based on spatial and genetic datasets. It looks to extend recent developments in this field of research, and evaluate the functionality and accuracy of the new methods against both real and simulated data. To do this, the identification and collection of one or more datasets in study systems (e.g. species and locations) that are both practical and useful to work with is required.
+This project aims to investigate and quantify methods for estimating dispersal and gene flow directionality using a combination of landscape genomic and spatial occurrence data. It looks to clarify and extend recent developments in this field of research, and evaluate the functionality and accuracy of the new methods against both real and simulated data. To do this, the identification, collection and analysis of one or more datasets in study systems (e.g. species and locations) that are both practical and useful to work with is required.
 
 ## Objectives
 
 1.	Use ecologically realistic simulations to test the robustness of existing population genetic inference tools.
-2.	Extend kin dyad approaches to incorporate mixture distributions and environmental heterogeneity.
-3.	Extend kin dyad approaches to use continuous measures of relatedness.
-4.	Test these extensions against the criteria used in objective 1.
-
+2.  Investigate and develop approaches to quantifying directionality of gene flow in populations.
+3.	Extend kin dyad approaches to incorporate mixture distributions and environmental heterogeneity.
+4.	Extend kin dyad approaches to use continuous measures of relatedness.
 
 ## Significance
 
-The cost of acquiring large amounts of DNA sequencing data is now so low that it is feasible to rapidly obtain and analyse tens of thousands of loci for many hundreds of individuals.  Data of this kind can be used to estimate not just some mean dispersal rate, but the entire distribution of dispersal distances that occurs in a population.  This distribution – the dispersal kernel – is a keystone piece of information required for spatially explicit population models.  An ability to estimate the dispersal kernel with genetics data is an enabling technology that rapidly opens up a huge range of applications across environment, health, and agriculture.
+The cost of acquiring large amounts of DNA sequencing data is now so low that it is feasible to rapidly obtain and analyse tens of thousands of loci for many hundreds of individuals.  Data of this kind can be used to estimate not just the amount of gene flow and a mean dispersal rate, but the direction of gene flow and the entire distribution of dispersal distances that occurs in a population.  The direction of gene flow is vital for predicting the spread of a species, and the the distribution of dispersal distances – the dispersal kernel – is a keystone piece of information required for spatially explicit population models. An ability to estimate the direction and range of dispersal distances with genomic data is an enabling technology that rapidly opens up a huge range of applications across environment, health, and agriculture.
 
 ## Candidate growth and outputs
 
-This candidate will gain highly valuable and transferrable skills in scientific research, population genomics, statistical inference, simulation modelling, and dispersal. High quality, peer-reviewed publications will include internationally relevant manuscripts covering such topics, with research findings presented at relevant local and international conferences as well as more targeted seminars/workshops. The candidate will be engaged in outreach through stakeholder meetings to share data and research highlights as well as hone communication skills and develop relationships with industry partners.
+This candidate will gain highly valuable and transferrable skills in scientific research, population genomics, statistical inference, simulation modelling, and ecology. High quality, peer-reviewed publications will include internationally relevant manuscripts covering such topics, with research findings presented at relevant local and international conferences as well as more targeted seminars/workshops. The candidate will be engaged in outreach through stakeholder meetings to share data and research highlights as well as hone communication skills and develop relationships with industry partners.
 
 The project is supported by a tax free stipend of \$32,500 p.a. with a top up of \$7,000 p.a. conditional on performance.
 

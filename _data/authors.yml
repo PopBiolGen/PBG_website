@@ -91,3 +91,33 @@ Brenton von Takach:
     - label: "Keybase"
       icon: "fab fa-keybase"
       url: "https://keybase.io/brentonvt"
+      
+Haylee D'Agui:
+  name   : "Haylee D'Agui"
+  short_name: Haylee
+  name_title: Dr
+  avatar : "/assets/images/mugshots/haylee.jpg"
+  position: "Project Officer"
+  institution: Curtin University
+  email: haylee.dagui@curtin.edu.au
+  home: "/team/haylee/"
+  bio    : "Haylee is an environmental biologist who enjoys working on the coordination, facilitation and delivery of research projects and programs in the fields of biodiversity and environmental science."
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/HayleeD16"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Haylee-D"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.com.au/citations?user=lNyOKa8AAAAJ&hl"
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Haylee-Dagui"    - 
+    - label: "ORCiD"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0001-8746-3435"
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/hayleed"

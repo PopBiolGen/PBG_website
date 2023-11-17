@@ -58,7 +58,6 @@ Natasha Harrison:
       icon: "ai ai-orcid"
       url: "https://orcid.org/0000-0001-5779-0187"
             
-      
 Brenton von Takach:
   name   : "Brenton von Takach"
   short_name: Brenton
@@ -68,7 +67,7 @@ Brenton von Takach:
   institution: Curtin University
   email: brenton.vontakach@curtin.edu.au
   home: "/team/brenton/"
-  bio    : "Research Fellow studying population ecology and genomics at Curtin"
+  bio    : "Research Fellow at Curtin"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -97,11 +96,11 @@ Haylee D'Agui:
   short_name: Haylee
   name_title: Dr
   avatar : "/assets/images/mugshots/haylee.jpg"
-  position: "Project Officer"
+  position: "Project Officer at Curtin"
   institution: Curtin University
   email: haylee.dagui@curtin.edu.au
   home: "/team/haylee/"
-  bio    : "Haylee is an environmental biologist who enjoys working on the coordination, facilitation and delivery of research projects and programs in the fields of biodiversity and environmental science."
+  bio    : "Project Officer."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -121,3 +120,30 @@ Haylee D'Agui:
     - label: "Keybase"
       icon: "fab fa-keybase"
       url: "https://keybase.io/hayleed"
+      
+Judy Dunlop:
+  name   : "Judy Dunlop"
+  short_name: Judy
+  name_title: Dr
+  avatar : "/assets/images/mugshots/judy.jpg"
+  position: "University Associate"
+  institution: Curtin University
+  email: judy.dunlop@gmail.com
+  home: "/team/judy/"
+  bio    : "University Associate"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Judy_Dunlop"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.com.au/citations?user=NMjvmiAAAAAJ&hl=en"
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Judy-Dunlop" 
+    - label: "ORCiD"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0003-4842-0672"
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/judy_d"

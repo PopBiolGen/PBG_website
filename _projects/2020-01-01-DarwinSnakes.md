@@ -43,6 +43,8 @@ Our Darwin snake ecology project is the brainchild of ecologists with little to 
 
 ## Selected publications
 
+von Takach, B., Lettoof, D. C., Parkin, T., de Laive, A., Allen, L., and Jolly, C. J. (2024) Analysing spatiotemporal patterns of snake occurrence in an Australian city to help manage human–wildlife conflict. *Biodiversity and Conservation* **00**, 00–00. [https://doi.org/10.1007/s10531-023-02752-2](https://doi.org/10.1007/s10531-023-02752-2).
+
 Lettoof, D. C., Parkin, T. P., Jolly, C. J., de Laive, A., and von Takach, B. (2023). Snake life history traits and their association with urban habitat use in a tropical city. *Urban Ecosystems* **26**, 433–445. [https://doi.org/10.1007/s11252-023-01327-x](https://doi.org/10.1007/s11252-023-01327-x).
 
 Parkin, T., Jolly, C. J., de Laive, A., and von Takach, B. (2020). Snakes on an urban plain: temporal patterns of snake activity and human-snake conflict in Darwin, Australia. *Austral Ecology* **46**, 449–462. [https://doi.org/10.1111/aec.12990](https://doi.org/10.1111/aec.12990).

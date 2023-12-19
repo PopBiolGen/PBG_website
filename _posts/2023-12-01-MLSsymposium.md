@@ -1,11 +1,10 @@
 ---
-title: 1st December 2023: School of Molecular and Life Sciences Annual Symposium
+title: 1 Dec 2023 MLS Annual Symposium
 date: 2023-12-01
 categories:
   - news
 tags:
   - awards
-  - talks
 author: Haylee D'Agui
 gallery:
   - image_path: assets/2023/MLSsym.jpg

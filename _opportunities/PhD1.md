@@ -5,7 +5,7 @@ short_name: "landscape resistance"
 date: 2023-08-16
 start_date: 2024
 type: PhD
-open: false
+open: true
 led_from: "Curtin University"
 supervisors:
   - "Brenton von Takach"
@@ -46,12 +46,9 @@ Candidates must have:
 - Honours or Masters by research
 - A background or keen interest in ecology, evolution, genetics, statistics, or related discipline.
 
-See here for details about scholarship:
-[https://scholarships.curtin.edu.au/Scholarship/?id=6855](https://scholarships.curtin.edu.au/Scholarship/?id=6855)
+Please get in touch with Brenton (brenton.vontakach@curtin.edu.au) if you're interested in submitting an Expression of Interest.
 
-If interested, please submit an Expression of Interest via the [Curtin website](https://forms.curtin.edu.au/Produce/Form/External%20Forms/Expression%20of%20Interest%20for%20Higher%20Degree%20by%20Research/)
-
-Applications are open now and will close on the 8th September.
+Applications are open now and will close on the 15th February.
 
 {% assign spv=page.supervisors[0] %}
 Send enquiries to Dr <a href="mailto:{{site.data.authors[spv].email}}">{{spv}}</a>.

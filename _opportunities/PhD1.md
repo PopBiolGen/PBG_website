@@ -34,7 +34,7 @@ This project will develop numerous spatial and genomic datasets, and analyse the
 
 ## Candidate growth and outputs
 
-This candidate will gain highly valuable and transferrable skills in scientific research, invertebrate biology, population genomics, landscape resistance, modelling, and dispersal. High quality, peer-reviewed publications will include internationally relevant manuscripts covering such topics, with research findings presented at relevant local and international conferences as well as more targeted seminars/workshops. The candidate will routinely engage in outreach through stakeholder meetings to share data and research highlights as well as hone communication skills and develop relationships with industry partners.
+This candidate will gain highly valuable and transferrable skills in scientific research, landscape ecology, invertebrate biology, population genomics, landscape resistance modelling, and animal dispersal. High quality, peer-reviewed publications will include internationally relevant manuscripts covering such topics, with research findings presented at relevant local and international conferences as well as more targeted seminars/workshops. The candidate will routinely engage in outreach through stakeholder meetings to share data and research highlights as well as hone communication skills and develop relationships with industry partners.
 
 The project is supported by a tax free stipend of \$32,500 p.a. with a top up of \$7,000 p.a. conditional on performance. 
 
@@ -46,9 +46,12 @@ Candidates must have:
 - Honours or Masters by research
 - A background or keen interest in ecology, evolution, genetics, statistics, or related discipline.
 
-Please get in touch with Brenton (brenton.vontakach@curtin.edu.au) if you're interested in submitting an Expression of Interest.
+See here for details about scholarship (ignore the bit about the scholarship being closed):
+[https://scholarships.curtin.edu.au/Scholarship/?id=6855](https://scholarships.curtin.edu.au/Scholarship/?id=6855)
 
-Applications are open now and will close on the 15th February.
+If interested, please submit an Expression of Interest via the [Curtin website](https://forms.curtin.edu.au/Produce/Form/External%20Forms/Expression%20of%20Interest%20for%20Higher%20Degree%20by%20Research/)
+
+Applications are open now and will close on the 29th February 2024.
 
 {% assign spv=page.supervisors[0] %}
 Send enquiries to Dr <a href="mailto:{{site.data.authors[spv].email}}">{{spv}}</a>.

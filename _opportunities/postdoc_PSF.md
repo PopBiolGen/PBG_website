@@ -5,7 +5,7 @@ short_name: "containment and eradication postdoc"
 date: 2023-11-27
 start_date: 2024
 type: Postdoc
-open: true
+open: false
 led_from: "Curtin University"
 supervisors:
   - "Ben Phillips"

@@ -61,6 +61,8 @@ This project begun at Charles Darwin University where Brenton helped Prof Sam Ba
 
 ## Selected publications
 
+von Takach, B., Cameron, S.F., Cremona, T., Eldridge, M.D.B., Fisher, D.O., Hohnen, R., Jolly, C.J., Kelly, E., Phillips, B.L., Radford, I.J., Rick, K., Spencer, P.B.S., Trewella, G.J., Umbrello, L.S., Banks, S.C. (2024). Conservation prioritisation of genomic diversity to inform management of a declining mammal species. *Biological Conservation* **291**, 110467. [https://doi.org/10.1016/j.biocon.2024.110467](https://doi.org/10.1016/j.biocon.2024.110467)
+
 von Takach, B., Sargent, H., Penton, C. E., Rick, K., Murphy, B. P., Neave, G., Davies, H. F., Hill, B. M., and Banks, S. C. (2023). Population genomics and conservation management of the threatened black-footed tree-rat (*Mesembriomys gouldii*) in northern Australia. *Heredity* **130**, 278–288. [https://doi.org/10.1038/s41437-023-00601-0](https://doi.org/10.1038/s41437-023-00601-0).
 
 von Takach, B., Jolly, C. J., Dixon, K. M., Penton, C. E., T. S. Doherty, and Banks, S. C. (2022). Long-unburnt habitat is critical for the conservation of threatened vertebrates across Australia. *Landscape Ecology* **37**, 1469–1482. [https://doi.org/10.1007/s10980-022-01427-7](https://doi.org/10.1007/s10980-022-01427-7).

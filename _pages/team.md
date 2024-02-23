@@ -3,6 +3,10 @@ permalink: /team/
 title: "Team"
 toc: true
 toc_sticky: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.00"
+  overlay_image: /assets/images/gallery/bluemtnspano.jpg
 ---
 
 ## Staff

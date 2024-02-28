@@ -5,7 +5,7 @@ short_name: "alleeDrive"
 date: 2023-08-16
 start_date: 2024
 type: PhD
-open: true
+open: false
 led_from: "Curtin University"
 supervisors:
   - "Nick Golding"

@@ -15,11 +15,11 @@ permalink: /opportunities/PhD2/
 
 ## Overview
 
-Understanding the direction and speed of invasions is critical for effective management. The direction of gene flow is driven by a combination of factors, including population densities and mechanisms of dispersal. The rate at which invasive populations spread into new areas is determined by their rates of dispersal and population growth. In particular, the rate of dispersal is almost always the harder to estimate, with the tail of dispersal curves being  difficult to quantify.  However, estimates of dispersal are vital for any enterprise that seeks to manage populations, as this information helps identify locations to target and actions to use. Whether we are looking to control or eradicate an invasive pest species, or to assist a threatened native species, an understanding of dispersal patterns is vital.
+Estimates of dispersal are vital for any enterprise that seeks to manage populations.  Information on dispersal helps identify locations to target and actions to use. Whether we are looking to control or eradicate an invasive pest species, or to assist a threatened native species, an understanding of dispersal patterns is extremely valuable. For exapmle, The rate at which invasive populations spread into new areas is determined by their rates of dispersal and population growth. Of these, the rate of dispersal is almost always the harder to estimate, with long-distance dispersal being particularly difficult to quantify.  Dispersal can, in principle, be estimated from genetic data, and this project looks to apply and develop methods for estimating dispersal from genomics data.
 
 ## Aims
 
-This project aims to investigate and quantify methods for estimating dispersal and gene flow directionality using a combination of landscape genomic and spatial occurrence data. It looks to clarify and extend recent developments in this field of research, and evaluate the functionality and accuracy of the new methods against both real and simulated data. To do this, the identification, collection and analysis of one or more datasets in study systems (e.g. species and locations) that are both practical and useful to work with is required.
+This project aims to investigate and quantify methods for estimating dispersal and gene flow directionality using a combination of landscape genomic and spatial occurrence data. It looks to clarify and extend recent developments in this field of research, and evaluate the functionality and accuracy of the new methods against both real and simulated data. To do this, the project will make use of both real and simulated data.
 
 ## Objectives
 
@@ -33,7 +33,7 @@ The cost of acquiring large amounts of DNA sequencing data is now so low that it
 
 ## Candidate growth and outputs
 
-This candidate will gain highly valuable and transferrable skills in scientific research, population genomics, statistical inference, simulation modelling, and ecology. High quality, peer-reviewed publications will include internationally relevant manuscripts covering such topics, with research findings presented at relevant local and international conferences as well as more targeted seminars/workshops. The candidate will be engaged in outreach through stakeholder meetings to share data and research highlights as well as hone communication skills and develop relationships with industry partners.
+This candidate will gain highly valuable and transferable skills in scientific research, population genomics, statistical inference, simulation modelling, and ecology. High quality, peer-reviewed publications will include internationally relevant manuscripts covering such topics, with research findings presented at relevant local and international conferences as well as more targeted seminars/workshops. The candidate will be engaged in outreach through stakeholder meetings to share data and research highlights as well as hone communication skills and develop relationships with industry partners.
 
 The project is supported by a tax free stipend of \$32,500 p.a. with a top up of \$7,000 p.a. conditional on performance.
 

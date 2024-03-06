@@ -100,7 +100,7 @@ Haylee D'Agui:
   institution: Curtin University
   email: haylee.dagui@curtin.edu.au
   home: "/team/haylee/"
-  bio    : "Project Officer."
+  bio    : "Project Officer"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -126,11 +126,11 @@ Judy Dunlop:
   short_name: Judy
   name_title: Dr
   avatar : "/assets/images/mugshots/judy.jpg"
-  position: "University Associate"
+  position: "Research Fellow at Curtin"
   institution: Curtin University
   email: judy.dunlop@gmail.com
   home: "/team/judy/"
-  bio    : "University Associate"
+  bio    : "Research Fellow"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

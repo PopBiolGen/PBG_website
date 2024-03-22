@@ -92,17 +92,18 @@ collections:
   opportunities:
     output: true
 
-# footer:
-#   links:
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/"
+footer:
+ logos:
+  - label: "Curtin University"
+    image: "https://www.curtin.edu.au/wp-content/themes/mimas/dist/icons/logo-curtin.svg"
+    url: "https://www.curtin.edu.au/"
+  - label: "DJTSI"
+    image: "https://dsdwa.blob.core.windows.net/web/sfimages/default-source/default-album/jtsi-high-res-logo.jpg?sfvrsn=609b6d1c_2"
+    url: "https://www.wa.gov.au/organisation/department-of-jobs-tourism-science-and-innovation"
+# links:
+#   - label: "Instagram"
+#     icon: "fab fa-fw fa-instagram"
+#     url: "https://instagram.com/"
 
 defaults:
   # _posts

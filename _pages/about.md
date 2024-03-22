@@ -5,10 +5,6 @@ classes: wide
 sidebar:
   - image: "assets/images/gallery/bushrat.jpg"
     image_alt: "A bush rat sitting on a person's hand."
-  - image: "assets/images/Toad.png"
-    image_alt: " A cane toad."
-  - image: "assets/images/projects/bactrocerca.png"
-    image_alt: "A fruit fly, by Howcheng on wikimedia"
   - image: "assets/images/gallery/fire_savannas.png"
     image_alt: "Savanna fire regime figure."
   - image: "assets/images/logo/JTSI_GWA_mono_17_short.jpg"

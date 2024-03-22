@@ -10,7 +10,9 @@ sidebar:
   - image: "assets/images/projects/bactrocerca.png"
     image_alt: "A fruit fly, by Howcheng on wikimedia"
   - image: "assets/images/gallery/fire_savannas.png"
-    image_alt: "A bush rat sitting on a person's hand."
+    image_alt: "Savanna fire regime figure."
+  - image: "assets/images/logo/JTSI_GWA_mono_17_short.jpg"
+    image_alt: "Supported by WA JTSI."
 header:
   overlay_color: "#000"
   overlay_filter: "0.00"
@@ -22,5 +24,7 @@ Welcome to Population Biology and Genomics (PBG) @ Curtin University. Our goal i
 Here at PBG, we leverage a multidisciplinary approach, using a combination of ecological and evolutionary data, spatial and temporal process models, and landscape and population genomic methodologies to better understand populations --- their current state as well as how they change over time. Our research focuses on terrestrial ecosystems (*i.e.* plants, invertebrates, birds, mammals, frogs, and reptiles), although we will occasionally dive into watery environments for a good cause. Importantly, we believe that a strong foundational understanding of biological, ecological, and evolutionary processes is necessary for accurate inference, and so we emphasise the importance of understanding natural history as well as numbers.
 
 We maintain strong collaborative links to industry, academia, and governmental organisations to improve our science and translate findings into practical applications for meaningful impact. In this spirit, we aim to foster an inclusive and collaborative environment, where creativity and intellectual curiosity thrive, nurturing the next generation of scientists and innovators.
+
+Our primary research [projects](https://popbiolgenomics.org/projects/) for the next few years are supported by the Western Australian Government’s Department of Jobs, Tourism, Science and Innovation, and Curtin University, through the [Premier’s Science Fellowship Program](https://www.wa.gov.au/service/community-services/grants-and-subsidies/premiers-science-fellowship-program).
 
 We are based on Whadjuk Noongar country: in the [School of Molecular and Life Sciences](https://www.curtin.edu.au/about/learning-teaching/science-engineering/school-of-molecular-life-sciences/) at Curtin University.

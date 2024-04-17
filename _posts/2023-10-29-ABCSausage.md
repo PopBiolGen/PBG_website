@@ -8,7 +8,7 @@ tags:
   - cane toads
 author: Haylee D'Agui
 gallery:
-  - image_path: assets/2024/Toad.png
+  - image_path: assets/2024/Toad.PNG
 ---
 
 ABC News environment reporter, Peter de Kruijff, reported on the impending invasion of cane toads further into Western Australia in the article 'Doubts cane toad sausages can protect Kimberley quolls as pest pushes into WA'.
@@ -23,6 +23,6 @@ Ben is quoted in the article as saying that in the last six months, resources we
 "There's a coalition of landowners who are quite excited about this idea and keen to implement it," he said.
 "There's been conversations with industry and government that have been really productive. This is just one of those rare moments where there's a potential win for everyone."
 
-Read the full article [here](https://www.abc.net.au/news/science/2023-10-31/doubts-raised-over-effectiveness-of-cane-toad-sausages/103003684)
+Read the full article on the ABC news [website](https://www.abc.net.au/news/science/2023-10-31/doubts-raised-over-effectiveness-of-cane-toad-sausages/103003684)
 
 {% include gallery caption="Cane toads on the western invasion front have travelled 200 kilometres in the past five years." %}

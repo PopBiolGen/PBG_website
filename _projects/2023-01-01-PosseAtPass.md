@@ -7,7 +7,7 @@ start_date: 2023
 end_date: 2027
 led_from: "Curtin University"
 funders:
-  - "Western Australian Government"
+  - "WA Department of Jobs Tourism Science and Innovation"
   - "Curtin University"
 industry_partners:
   - "Department of Biodiversity Conservation and Attractions (WA)"

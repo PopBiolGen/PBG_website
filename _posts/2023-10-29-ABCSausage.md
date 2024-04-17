@@ -1,10 +1,11 @@
 ---
-title: 31st Oct 2023 Ben quoted in ABC article on the the status of the cane toad invasion in WA 
+title: 31 Oct 2023 Ben quoted in article on the cane toad invasion of WA 
 date: 2023-10-31
 categories:
   - news
 tags:
   - media
+  - cane toads
 author: Haylee D'Agui
 gallery:
   - image_path: assets/2024/Toad.png
@@ -14,7 +15,7 @@ ABC News environment reporter, Peter de Kruijff, reported on the impending invas
 
 The article reports that cane toads have nearly conquered the top of Australia and are now only 150 kilometres from Broome, WA. While it was hoped that cane toad sausages would deter some wildlife such as quolls from eating the pest, the plan has not been as successful as hoped. However, other strategies to stop cane toads infiltrating the Pilbara region of WA are in motion.
 
-In the article, Ben states that if the cane toads got through to the Pilbara, that 10 to 15 animals could be added to the national threatened species list or have their threat level raised. The article reports that cane toads have not been able to spread far south in WA with the Great Sandy Desert acting as a natural barrier to the Pilbara, as Without standing water, toads can dry out in a matter of days and perish. However, artificial water points, such as bores, on the cattle stations located along a narrow strip between Broome and Port Hedland makes it possible toads could get through, despite the arid conditions. From there they could cause untold damage to the many species of the region which is also the last stronghold for northern quolls. Ben is quoted as saying "Without management they will move down that corridor, Once they've done that they'll have another 270,000 square kilometres. "It's an area larger than Great Britain they'll be able to access,
+In the article, Ben states that if the cane toads got through to the Pilbara, that 10 to 15 animals could be added to the national threatened species list or have their threat level raised. The article reports that cane toads have not been able to spread far south in WA with the Great Sandy Desert acting as a natural barrier to the Pilbara, as Without standing water, toads can dry out in a matter of days and perish. However, artificial water points, such as bores, on the cattle stations located along a narrow strip between Broome and Port Hedland makes it possible toads could get through, despite the arid conditions. From there they could cause untold damage to the many species of the region which is also the last stronghold for northern quolls. Ben is quoted as saying "Without management they will move down that corridor, Once they've done that they'll have another 270,000 square kilometres. It's an area larger than Great Britain they'll be able to access".
 
 Scientists have been looking into the viability of a waterless barrier where a "toad containment zone" is established by upgrading station infrastructure so the water can still be accessed by stock but not toads.
 

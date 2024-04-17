@@ -1,6 +1,6 @@
 ---
-title: 13th Nov 2023 Ben featured in ABC video on the cane toad invasion in Northern WA 
-date: 2023-10-31
+title: 13th Nov 2023 Ben featured in ABC video on cane toads 
+date: 2023-11-13
 categories:
   - news
 tags:
@@ -14,6 +14,6 @@ Ben was featured in a short video from ABC News Perth on the “once-in-a-lifeti
 
 In the video, reporter Pamela Medlen presents the case for a 'toad containment zone' - a concept being promoted by Ben - which could prevent the toads from invading the Pilbara region of WA. 
 
-Watch the reel on Instagram [here](https://www.instagram.com/reel/CzkeVt_vBJi/?utm_source=ig_web_copy_link)
+Watch the reel on [Instagram](https://www.instagram.com/reel/CzkeVt_vBJi/?utm_source=ig_web_copy_link)
 
 {% include gallery caption="Ben was featured in a short video with ABC News Perth on the cane toad invasion in WA." %}

@@ -22,7 +22,7 @@ Dr Brenton von Takach spoke on 'Landscape genomics in Perth'; Dr Holly Kirk pres
 
 Following the presentations, attendees joined in discussion around their current projects and potential collaboration opportunities with each other, and where WABSI could facilitate.
 
-The Western Australian Biodiversity Science Institute (WABSI) is a joint venture partnership representing leading biodiversity science research expertise in Western Australia. WABSI is an independent collaboration mechanism that facilitate end user driven, relevant research to create opportunities for meaningful change in biodiversity conservation and enable sustainable development. You can read more about WABSI [here](https://wabsi.org.au/latest-news/research-partners-renew-the-wabsi-joint-venture-reaffirming-the-successful-collaboration/)here. 
+The Western Australian Biodiversity Science Institute (WABSI) is a joint venture partnership representing leading biodiversity science research expertise in Western Australia. WABSI is an independent collaboration mechanism that facilitate end user driven, relevant research to create opportunities for meaningful change in biodiversity conservation and enable sustainable development. You can read more about WABSI [here](https://wabsi.org.au/latest-news/research-partners-renew-the-wabsi-joint-venture-reaffirming-the-successful-collaboration/). 
 
 
 {% include gallery caption="Curtin - WABSI urban biodiversity research planning forum: Ben chaired the forum, and Brenton and Holly (PBG Associate Scientist) presented on their research." %}

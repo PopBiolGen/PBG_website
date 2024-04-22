@@ -147,3 +147,30 @@ Judy Dunlop:
     - label: "Keybase"
       icon: "fab fa-keybase"
       url: "https://keybase.io/judy_d"
+      
+Holly Kirk:
+  name   : "Holly Kirk"
+  short_name: Holly
+  name_title: Dr
+  avatar : "/assets/images/mugshots/holly.jpg"
+  position: "Associate Research Scientist at Curtin"
+  institution: Curtin University
+  email: holly.kirk@rmit.edu.au
+  home: "/team/holly/"
+  bio    : "Associate Research Scientist"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/HollyKirk"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.com.au/citations?user=pJNPKhgAAAAJ&hl=en"
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Holly-Kirk-2" 
+    - label: "ORCiD"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-8724-3210"
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/hollykirk"

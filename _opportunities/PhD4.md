@@ -5,7 +5,7 @@ short_name: "cost and feasibility"
 date: 2023-08-21
 start_date: 2024
 type: PhD
-open: true
+open: false
 led_from: "Curtin University"
 supervisors:
   - "Ben Phillips"

@@ -9,7 +9,7 @@ tags:
 author: Ben Phillips
 ---
 <p><!-- wp:paragraph --></p>
-<p>Pop quiz: what have cancer and cane toads got in common? Well, as it turns out, quite a lot. They're both examples of a spreading population. In the case of toads its a population of... well, toads. In the case of cancer, it's a population of cells. But in both cases, the population spreads by movement and reproduction of its 'individuals'. Indeed, when you stop to think of it, spreading populations are everywhere.</p>
+<p>Pop quiz: what have cancer and cane toads got in common? Well, as it turns out, quite a lot. They're both examples of a spreading population. In the case of toads its a population of... well, toads. In the case of cancer, it's a population of cells. But in both cases, the population spreads by movement and reproduction of its 'individuals'. Indeed, when you stop to think of it, spreading populations are everywhere .</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>The other thing that toads and tumours have in common is that their spread rate is difficult to predict. This unpredictability is frustrating, for a couple of reasons. First, for lots of spreading populations, we'd really (really) like to predict spread rate. It would be nice to know how rapidly that tumour is likely to grow, or that invasive species is going to spread. Second, it is frustrating because we actually have some really beautiful theory about population spread to guide us. The fact that this theory often fails badly in the forecasting stakes is, to put it mildly, deeply irritating.</p>

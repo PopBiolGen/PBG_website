@@ -197,7 +197,7 @@ John Ohiolei:
       url: "https://www.researchgate.net/profile/John-Ohiolei" 
     - label: "ORCiD"
       icon: "ai ai-orcid"
-      url: "https://orcid.org/my-orcid?orcid=0000-0002-1439-0703"
+      url: "https://orcid.org/0000-0002-1439-0703"
     - label: "Keybase"
       icon: "fab fa-keybase"
       url: "https://keybase.io/asekhaen"

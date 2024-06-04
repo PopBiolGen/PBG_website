@@ -175,11 +175,11 @@ Holly Kirk:
       icon: "fab fa-keybase"
       url: "https://keybase.io/hollykirk"
 
-  John Ohiolei:
+John Ohiolei:
   name   : "John Ohiolei"
   short_name: John
   name_title: 
-  avatar : "/assets/images/mugshots/JOHN.png"
+  avatar : "/assets/images/mugshots/JohnO.png"
   position: "PhD student"
   institution: Curtin University
   email: john.ohiolei@postgrad.curtin.edu.au
@@ -190,7 +190,7 @@ Holly Kirk:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/Asekhaen"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square"
+      icon: "ai ai-google-scholar-square" 
       url: "https://scholar.google.com/citations?user=lxVixa8AAAAJ&hl=en"
     - label: "ResearchGate"
       icon: "fab fa-researchgate"

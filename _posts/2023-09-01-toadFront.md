@@ -4,7 +4,9 @@ date: 2023-09-01
 categories:
   - news
 tags:
-  - awards
+  - ben
+  - invasion
+  - cane toads
 author: Ben Phillips
 gallery:
   - image_path: assets/2023/toadFrontToad.png

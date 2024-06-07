@@ -5,6 +5,9 @@ categories:
   - news
 tags:
   - awards
+  - media
+  - outreach
+  - brenton
 author: Brenton von Takach
 gallery:
   - image_path: assets/2023/FRFpodcast.png

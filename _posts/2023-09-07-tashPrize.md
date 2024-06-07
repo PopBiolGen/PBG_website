@@ -5,6 +5,8 @@ categories:
   - news
 tags:
   - awards
+  - tash
+  - students
 author: Ben Phillips
 gallery:
   - image_path: assets/2023/tashPrize.png

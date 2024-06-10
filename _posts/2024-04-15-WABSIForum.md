@@ -5,6 +5,13 @@ categories:
   - news
 tags:
   - outreach
+  - ben
+  - brenton
+  - holly
+  - haylee
+  - pbg team
+  - presentations
+  - workshops
 author: Haylee D'Agui
 gallery:
   - image_path: assets/2024/WABSI_1.jpg

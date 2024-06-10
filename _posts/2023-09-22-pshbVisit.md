@@ -5,6 +5,7 @@ categories:
   - news
 tags:
   - pshb
+  - ben
 author: Ben Phillips
 gallery:
   - image_path: assets/2023/pshb_in_jar.png

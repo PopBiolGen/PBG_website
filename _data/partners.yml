@@ -12,10 +12,6 @@ Darwin Snake Catchers:
   title: "DarwinSnakeCatchers"
   image_path: "https://scontent.fadl8-1.fna.fbcdn.net/v/t39.30808-6/292040547_492489746013763_4567210739262745224_n.png?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=30RqVYWsciAAX-qUx8a&_nc_oc=AQnwV_OrPoTjrwEJZQkqberQvZhaZ2at4GA4f4uICtAkkvQkWSgbKMq73r4H4ybgz28&_nc_ht=scontent.fadl8-1.fna&oh=00_AfB-2DjUOvfhSq3TEMPIfrnljk8MAGMOcxEqh2hLpf2cJA&oe=64C3C9F0"
   url: "https://www.facebook.com/darwinsnakecatchers/"
-
-Deakin University:
-  image_path: "https://www.deakin.edu.au/__data/assets/image/0007/1146985/logo_deakin-rebrand-stacked.png"
-  url: "https://www.deakin.edu.au/"
   
 Department of Biodiversity Conservation and Attractions (WA):
   title: "DBCA"
@@ -37,23 +33,10 @@ Kakadu National Park:
   image_path:
   url: "https://parksaustralia.gov.au/kakadu/"
   
-Karajarri Traditional Lands Association:
-  image_path: "https://d3r4tb575cotg3.cloudfront.net/static/Karajarri-logo.png"
-  url: "https://www.ktla.org.au/"
-  
 Kenbi Rangers:
   title: "Kenbi"
   image_path: "https://www.nlc.org.au/uploads/images/_200xAUTO_crop_center-center/Kenbi.png"
   url: "https://www.nlc.org.au/building-the-bush/caring-for-country/ranger-groups-map/kenbi"
-
-Nyangumarta Warrarn Aboriginal Corporation:
-  image_path: "https://images.squarespace-cdn.com/content/v1/60cddc740bf15d757adaaecc/7013a27d-bcfd-40ca-aeb8-5721506dbb55/logo-new.png?format=1500w"
-  url: "https://www.nwac.org.au/"
-
-Rangelands NRM:
-  title: "Rangelands NRM"
-  image_path: "https://www.rangelandswa.com.au/wp-content/themes/rangelandswa/images/logos/rangelands.svg"
-  url: "https://www.rangelandswa.com.au/"
 
 Territory Natural Resource Management:
   title: "Territory Natural Resource Management"

@@ -22,6 +22,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
 search: true
+future: false
 url: http://popbiolgenomics.org
 baseurl:
 

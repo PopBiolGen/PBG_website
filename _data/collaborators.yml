@@ -32,11 +32,6 @@ Tim Dempster:
   name: "Tim Dempster"
   affiliation: "Deakin University"
   url: "https://www.deakin.edu.au/about-deakin/people/tim-dempster"
-  
-Judy Dunlop:
-  name: "Judy Dunlop"
-  affiliation: "Curtin University"
-  url: "https://popbiolgenomics.org/team/judy/"
 
 Kelly Dixon:
   name: "Kelly Dixon"
@@ -146,7 +141,7 @@ Cara Penton:
 Ben Phillips:
   name: "Ben Phillips"
   affiliation: "Curtin University"
-  url: "https://popbiolgenomics.org/team/ben/"
+  url:
   
 Charlie Robin:
   name: "Charlie Robin"

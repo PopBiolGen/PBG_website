@@ -14,7 +14,7 @@ collaborators:
   - "Ben Phillips"
   - "Brenton von Takach"
 header:
-  teaser: "assets/images/projects/detectionFigure.png"
+  teaser: "assets/images/Toad.png"
 gallery:
   - image_path: 
     image_caption: 

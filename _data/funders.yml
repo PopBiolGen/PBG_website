@@ -1,11 +1,15 @@
 Australian Research Council:
-  logo: "https://www.arc.gov.au/themes/custom/arc_bootstrap_sass/logo.svg"
+  image_path: "https://www.arc.gov.au/themes/custom/arc_bootstrap_sass/logo.svg"
   url: "https://www.arc.gov.au/"
 
 Australian Government National Landcare Program:
   image_path: "https://www.perthnrm.com/nrmwp/wp-content/uploads/2020/04/NLPHorizontalLogo-Feature.png"
   url: "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/natural-resources/landcare/national-landcare-program"
 
+BHP:
+  image_path: "https://www.bhp.com/-/media/project/bhp1ip/bhp1ip-en/bhp-orange.png?iar=0&hash=9467A83EBA5D4819D582B7F0A7E0239B"
+  url: "https://www.bhp.com/"
+  
 Bioplatforms Australia:
   title: "Bioplatforms"
   image_path: "https://data.bioplatforms.com/BIO-RGB_Full-NEG_Portal_TRANS2_small.webp"
@@ -16,26 +20,30 @@ Charles Darwin University:
   url: "https://www.cdu.edu.au/"
   
 Curtin University:
-  logo: "https://www.curtin.edu.au/wp-content/themes/mimas/dist/icons/logo-curtin.svg"
+  image_path: "https://www.curtin.edu.au/wp-content/themes/mimas/dist/icons/image_path-curtin.svg"
   url:  "https://www.curtin.edu.au/"
 
 FHF Norway:
-  logo: "https://www.fhf.no/logo/FHF_logo.png"
+  image_path: "https://www.fhf.no/logo/FHF_logo.png"
   url: "https://www.fhf.no/fhf/about-fhf-english/"
   
 Forrest Research Foundation:
-  logo: "https://www.forrestresearch.org.au/wp-content/uploads/2018/02/logo_rev_large-1-300x192.png"
+  image_path: "https://www.forrestresearch.org.au/wp-content/uploads/2018/02/logo_rev_large-1-300x192.png"
   url: "https://www.forrestresearch.org.au/"
   
 Hermon Slade Foundation:
-  logo: "http://www.hermonslade.org.au/wp-content/uploads/2019/11/Mask-Group-1.png"
+  image_path: "http://www.hermonslade.org.au/wp-content/uploads/2019/11/Mask-Group-1.png"
   url: "http://www.hermonslade.org.au/"
   
 The University of Melbourne:
-  logo: "https://d2glwx35mhbfwf.cloudfront.net/v13.7.2/logo-with-padding.svg"
+  image_path: "https://d2glwx35mhbfwf.cloudfront.net/v13.7.2/logo-with-padding.svg"
   url: "https://www.unimelb.edu.au/"
   
 WA Department of Jobs Tourism Science and Innovation:
   title: "WAG"
   image_path: "https://dsdwa.blob.core.windows.net/web/sfimages/default-source/default-album/jtsi-high-res-logo.jpg?sfvrsn=609b6d1c_2"
   url: "https://www.wa.gov.au/organisation/department-of-jobs-tourism-science-and-innovation"
+
+WA Department of Water and Environmental Regulation:
+  image_path: "https://www.wa.gov.au/system/files/styles/organisation_branding_logo/private/2024-02/dwer-logo-homepage_2.jpg?itok=uStvl7Gz"
+  url: "https://www.wa.gov.au/organisation/department-of-water-and-environmental-regulation"

@@ -27,36 +27,6 @@ Ben Phillips:
     - label: "Linked In"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/ben-phillips-7031a7191/"
-      
-Natasha Harrison:
-  name   : "Tash Harrison"
-  short_name: Tash
-  name_title: 
-  avatar : "/assets/images/mugshots/tash.png"
-  position: "PhD Candidate"
-  institution: University of Western Australia
-  email: tash.d.harrison@gmail.com 
-  home: "/team/tash/"
-  bio    : "PhD student working on the loss of antipredator traits in conservation havens"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "natasha-harrison.github.ioG"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tash_harro"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/natasha-harrison"
-    - label: "Keybase"
-      icon: "fab fa-keybase"
-      url: "https://keybase.io/tash_harro"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square"
-      url: "https://scholar.google.com/citations?user=Um5oD-oAAAAJ&hl=en "
-    - label: "ORCiD"
-      icon: "ai ai-orcid"
-      url: "https://orcid.org/0000-0001-5779-0187"
             
 Brenton von Takach:
   name   : "Brenton von Takach"

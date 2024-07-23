@@ -118,6 +118,33 @@ Judy Dunlop:
       icon: "fab fa-keybase"
       url: "https://keybase.io/judy_d"
       
+Marta Karolak:
+  name   : "Marta Karolak"
+  short_name: Marta
+  name_title: 
+  avatar : "/assets/images/mugshots/marta.png"
+  position: "PhD student"
+  institution: Curtin University
+  email: marta.karolak@postgrad.curtin.edu.au
+  home: "/team/marta/"
+  bio    : "PhD student"
+  links:
+     - label: "ResearchGate"
+       icon: "fab fa-researchgate"
+       url: "https://www.researchgate.net/profile/Marta-Karolak-3"
+     - label: "Google Scholar"
+       icon: "ai ai-google-scholar-square"
+       url: "https://scholar.google.com.au/citations?user=XmMN6oEAAAAJ&hl=en"
+     - label: "Linked In"
+       icon: "fab fa-linkedin"
+       url: "https://www.linkedin.com/in/marta-karolak-389808171/"
+     - label: "ORCiD"
+       icon: "ai ai-orcid"
+       url: "https://orcid.org/0009-0007-2769-7636"
+     - label: "Keybase"
+       icon: "fab fa-keybase"
+       url: "https://keybase.io/martakarolak"
+      
 Holly Kirk:
   name   : "Holly Kirk"
   short_name: Holly

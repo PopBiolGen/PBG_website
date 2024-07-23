@@ -99,7 +99,7 @@ footer:
     image: "https://www.curtin.edu.au/wp-content/themes/mimas/dist/icons/logo-curtin.svg"
     url: "https://www.curtin.edu.au/"
   - label: "DJTSI"
-    image: "https://dsdwa.blob.core.windows.net/web/sfimages/default-source/default-album/jtsi-high-res-logo.jpg?sfvrsn=609b6d1c_2"
+    image: "assets/images/logo/JTSI_GWA_mono_17_long.jpg"
     url: "https://www.wa.gov.au/organisation/department-of-jobs-tourism-science-and-innovation"
 # links:
 #   - label: "Instagram"

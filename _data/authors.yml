@@ -60,6 +60,33 @@ Brenton von Takach:
     - label: "Keybase"
       icon: "fab fa-keybase"
       url: "https://keybase.io/brentonvt"
+
+Andrew Coates:
+  name   : "Andrew Coates"
+  short_name: Andy
+  name_title: Dr
+  avatar : "/assets/images/mugshots/andy.jpg"
+  position: "Research Associate at Curtin"
+  institution: Curtin University
+  email: andrew.coates@curtin.edu.au
+  home: "/team/andy/"
+  bio    : "Research Associate"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/coates-a"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.com/citations?user=5k4aD4gAAAAJ&hl=en&oi=sra"
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Andrew-Coates-4" 
+    - label: "ORCiD"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-6455-7372"
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/andrew_coates"
       
 Haylee D'Agui:
   name   : "Haylee D'Agui"

@@ -86,6 +86,9 @@ atom_feed:
 collections:
   staff:
     output: true
+    order:
+     - ben.md
+     - brenton.md
   students:
     output: true
   projects:

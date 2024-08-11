@@ -11,7 +11,8 @@ header:
 
 ## Staff
 
-{% for person in site.staff %}
+{% assign sorted = site.staff | sort: 'order' %}
+{% for person in sorted %}
   {% include author-profile-flat.html %}
   <br/>
 {% endfor %}

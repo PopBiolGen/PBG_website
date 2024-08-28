@@ -14,10 +14,11 @@ industry_partners:
 collaborators:
   - "Brenton von Takach"
   - "Ben Phillips"
-  - "Kym Ottewell"
+  - "Sean Buckley"
   - "Damian Lettoof"
-  - "Robyn Shaw"
+  - "Kym Ottewell"
   - "Anthony Santoro"
+  - "Robyn Shaw"
 header:
   teaser: "assets/images/projects/unknownbuggything.png"
 gallery:

@@ -1,6 +1,6 @@
 Luke Allen:
   name: "Luke Allen"
-  affiliation: "Darwin Snake Catchers"
+  affiliation: "EcOz"
   url: "https://www.researchgate.net/profile/Luke-Allen-11"
 
 Sam Banks:
@@ -13,6 +13,11 @@ Justin Borevitz:
   affiliation: "The Australian National University"
   url: "https://scholar.google.com.au/citations?hl=en&user=JEG_GroAAAAJ"
 
+Sean Buckley:
+  name: "Sean Buckley"
+  affiliation: "Edith Cowan University"
+  url: "https://scholar.google.com.au/citations?user=4lbh5MoAAAAJ&hl=en"
+
 Skye Cameron:
   name: "Skye Cameron"
   affiliation: "Australian Wildlife Conservancy"
@@ -21,7 +26,7 @@ Skye Cameron:
 Andrew Coates:
   name: "Andy Coates"
   affiliation: "Deakin University"
-  url: 
+  url: "https://scholar.google.com/citations?user=5k4aD4gAAAAJ&hl=en"
   
 Teigan Cremona:
   name: "Teigan Cremona"
@@ -70,7 +75,7 @@ Matthew Hall:
 
 Natasha Harrison:
   name: "Natasha Harrison"
-  affiliation: "University of Western Australia"
+  affiliation: "WA Department of Biodiversity, Conservation and Attractions"
   url: "https://natasha-harrison.github.io/"
 
 Jan Hemmi:
@@ -85,7 +90,7 @@ Brydie Hill:
 
 Emily Hoffmann:
   name: "Emily Hoffmann"
-  affiliation: "Territory NRM"
+  affiliation: "University of Western Australia"
   url: "https://scholar.google.com.au/citations?user=offF5DgAAAAJ&hl=en"
  
 Chris Jolly:
@@ -165,7 +170,7 @@ Anthony Santoro:
 
 Robyn Shaw:
   name: "Robyn Shaw"
-  affiliation: "The Australian National University"
+  affiliation: "University of Canberra"
   url: "https://scholar.google.com.au/citations?user=rXI3vawAAAAJ&hl=en"
 
 Brenton von Takach:

@@ -47,3 +47,8 @@ Following initial consultation to plan survey sites, Jawoyn Rangers and Territor
 Surveys are currently being undertaken in the Warddeken Indigenous Protected Area (IPA) in collaboration with Warddeken Land Management, following the same methodology employed on Jawoyn Country. Already, the results of the predictive habitat modelling are informing the fire management program in the Warddeken IPA in 2022, to protect long-unburnt patches of the Stone Country.  
 
 Further surveys are planned over the next 12 months in other areas of the Stone Country with various Indigenous Ranger groups and results from these will continue to help inform fire management planning. All surveys are carried out under appropriate animal ethics, Northern Territory Government and Northern Land council permits.
+
+
+## Selected publications
+
+Dixon, K., von Takach, B., Hayward-Brown, B., Guymala, T., Warddeken Rangers, Jawoyn Rangers, Djurrubu Rangers, Mimal Rangers, Evans, J., Penton, K. (2024) Integrating western and Indigenous knowledge to identify habitat suitability and survey for the white-throated grasswren (Amytornis woodwardi) in the Arnhem Plateau, Northern Territory, Australia. *Wildlife Research* **00**, 00–00.

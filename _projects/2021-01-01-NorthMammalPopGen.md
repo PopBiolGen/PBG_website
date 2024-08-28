@@ -65,6 +65,8 @@ von Takach, B., Cameron, S.F., Cremona, T., Eldridge, M.D.B., Fisher, D.O., Hohn
 
 von Takach, B., Sargent, H., Penton, C. E., Rick, K., Murphy, B. P., Neave, G., Davies, H. F., Hill, B. M., and Banks, S. C. (2023). Population genomics and conservation management of the threatened black-footed tree-rat (*Mesembriomys gouldii*) in northern Australia. *Heredity* **130**, 278–288. [https://doi.org/10.1038/s41437-023-00601-0](https://doi.org/10.1038/s41437-023-00601-0).
 
+Rick, K., Byrne, M., Cameron, S., Cooper, S.J.B., Dunlop, J., Hill, B., Lohr, C., Mitchell, N.J., Moritz, C., Travouillon, K.J., von Takach, B., Ottewell, K. (2023). Population genomic diversity and structure in the golden bandicoot: a history of isolation, extirpation, and conservation. *Heredity* **131**, 374–386. [https://doi.org/10.1038/s41437-023-00653-2](https://doi.org/10.1038/s41437-023-00653-2)
+
 von Takach, B., Jolly, C. J., Dixon, K. M., Penton, C. E., T. S. Doherty, and Banks, S. C. (2022). Long-unburnt habitat is critical for the conservation of threatened vertebrates across Australia. *Landscape Ecology* **37**, 1469–1482. [https://doi.org/10.1007/s10980-022-01427-7](https://doi.org/10.1007/s10980-022-01427-7).
 
 von Takach, B., Ranjard, L., Burridge, C. P., Cameron, S. F., Cremona, T., Eldridge, M. D. B., Fisher, D. O., Frankenberg, S., Hill, B. M., Hohnen, R., Jolly, C. J., Kelly, E., MacDonald, A. J., Moussalli, A., Ottewell, K., Phillips, B. L., Radford, I. J., Spencer, P. B. S., Trewella, G. J., Umbrello, L. S., & Banks, S. C. (2022). Population genomics of a predatory mammal reveals patterns of decline and impacts of exposure to toxic toads. *Molecular Ecology* **31**(21): 5468–5486. [https://doi.org/10.1111/mec.16680](https://doi.org/10.1111/mec.16680).

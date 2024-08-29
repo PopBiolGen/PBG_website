@@ -14,10 +14,11 @@ industry_partners:
 collaborators:
   - "Brenton von Takach"
   - "Ben Phillips"
-  - "Kym Ottewell"
+  - "Sean Buckley"
   - "Damian Lettoof"
-  - "Robyn Shaw"
+  - "Kym Ottewell"
   - "Anthony Santoro"
+  - "Robyn Shaw"
 header:
   teaser: "assets/images/projects/unknownbuggything.png"
 gallery:
@@ -38,4 +39,4 @@ By sampling small numbers of individuals (e.g. 1-3) per unit area, and sampling 
 
 ## Progress
 
-This project is currently being developed, with Dr von Takach and colleagues seeking Honours, Masters and PhD students to contribute to both this project and the complementary project spearheaded by Prof Phillips. Please get in touch with Brenton or Ben if you are interested in joining the team!
+This project started in mid-2023 and extends to mid-2027. Dr von Takach and colleagues are currently seeking Honours and Masters students to contribute to both this project and the complementary project spearheaded by Prof Phillips. Please get in touch with Brenton or Ben if you are interested in joining the team!

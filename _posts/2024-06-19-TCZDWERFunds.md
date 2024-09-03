@@ -1,12 +1,13 @@
 ---
-title: "19 Jun 2024 Brenton's National Science Week video"
+title: "19 June 2024 Funding for phase I of the toad containment zone is announced"
 date: 2024-06-27
 categories:
   - news
 tags:
+  - cane toads
   - outreach
-  - brenton
-  - video
+  - ben
+  - media
 author: Ben Phillips
 gallery:
   - image_path: assets/2024/TCZ1.jpg

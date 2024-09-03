@@ -8,6 +8,7 @@ tags:
   - media
   - outreach
   - brenton
+  - podcast
 author: Brenton von Takach
 gallery:
   - image_path: assets/2023/FRFpodcast.png

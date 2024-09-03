@@ -7,6 +7,7 @@ tags:
   - media
   - ben
   - cane toads
+  - video
 author: Haylee D'Agui
 gallery:
   - image_path: assets/2024/Insta.PNG

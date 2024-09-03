@@ -12,6 +12,7 @@ tags:
   - pbg team
   - presentations
   - workshops
+  - events
 author: Haylee D'Agui
 gallery:
   - image_path: assets/2024/WABSI_1.jpg

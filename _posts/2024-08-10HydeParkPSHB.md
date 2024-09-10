@@ -4,7 +4,7 @@ date: 2024-08-10
 categories:
   - news
 tags:
-  - polyphagous shothole borer
+  - PSHB
   - outreach
   - ben
 author: Ben Phillips

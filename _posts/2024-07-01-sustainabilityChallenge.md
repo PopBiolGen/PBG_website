@@ -9,7 +9,7 @@ tags:
   - ben
 author: Ben Phillips
 gallery:
-  - image_path: assets/2024/sustChallStudents.png
+  - image_path: assets/2024/sustChallStudents.jpg
 ---
 
 I recently had the pleasure of engaging with several teams of smart and creative students taking part in Curtin's annual Sustainability Challenge.

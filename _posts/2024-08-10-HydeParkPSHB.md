@@ -9,7 +9,7 @@ tags:
   - ben
 author: Ben Phillips
 gallery:
-  - image_path: assets/2024/PSHBHydePark.png
+  - image_path: assets/2024/PSHBHydePark.jpg
 ---
 
 I recently attended a tree climbing event organised by City of Canning and City of Vincent.  Not because I am particularly good at climbing trees, but because there were a bunch of professional tree climbers that were volunteering their time to do something about polyphagous shothole borer (PSHB).

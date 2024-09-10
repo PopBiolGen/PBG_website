@@ -19,4 +19,4 @@ The workshop went very well, with good engagement from all parties and a general
 For more information, visit the _Toad Free Zone_ website [here](toadfree.zone). 
 
 
-{% include gallery caption="The history-making crew at TCZ Workshop 1 -- photo by from Judy Dunlop" %}
+{% include gallery caption="The history-making crew at TCZ Workshop 1 -- photo by Judy Dunlop" %}

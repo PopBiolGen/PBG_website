@@ -1,40 +1,40 @@
 ---
-title: "Could bilbies facilitate the toad invasion?"
-excerpt: "Honours position: examinig the survival of toads down burrows"
-short_name: "toads in burrows"
-date: 2024-04-24
-start_date: 2024
+title: "Operation Toad Surveillance: which method of cane toad detection is most effective and efficient?"
+excerpt: "Honours position: how to detect toads"
+short_name: "toads detection"
+date: 2024-10-01
+start_date: 2025
 type: Hons
 open: true
 led_from: "Curtin University"
 supervisors:
   - "Ben Phillips"
   - "Judy Dunlop"
-permalink: /opportunities/toad-hons/
+permalink: /opportunities/toad-detect/
 gallery:
-  - image_path: assets/images/projects/TCZ-map-australia.png
+  - image_path: assets/images/projects/toad-detection.jpeg
 ---
 
 ## Overview
 
-Cane toads have spread to occupy more than 1.6 million square kilometres of Australia.  They have a massive impact on native predator species, who are fatally poisoned when toads arrive in an area.  Toads have recently colonised the Kimberley and they continue to spread.  We have a once in a lifetime opportunity to stop the toad invasion just south of Broome.  We can effect this by managing pastoral infrastructure such that it is not available to toads, creating a waterless barrier against which the toad invasion should stop. Do this, and we potentially keep toads out of 27 million hectares of Western Australia.
+Cane toads (Rhinella marina) are a major invasive pest in northern Australia. Native to Central and South America, they were introduced to Australia in 1953 to control pest beetles in the Queensland sugar cane industry, but quickly spread and and now occupy more than 1.6 million square kilometres of Australia. 
+Cane toads have a major impact on Australia’s native species (including insects, frogs, reptiles, fish, and mammals). Native species are killed when they eat the toxic cane toads, and toads compete with native species for food. As such, cane toads have resulted in the deaths of hundreds of thousands of native animals and have irrevocably changed the ecology of the landscapes that they have invaded.
 
-While the basic idea is well researched, we are now moving into implementation phase, and we need to explore all possibilities.  One possibility is that toads may be able to survive down goanna and bilby burrows and so continue to spread.  This project examines the possibility that toads might be able to find and use burrows to survive over the dry season in northern Australia.
+Early detection of an invasive species when it arrives in a new location is key to ensuring an effective biosecurity response. How might we best run surveillance operations to detect the arrival of cane toads in an area? This project will compare methods of detecting cane toads to determine the most efficient, reliable method, and will contribute to the development of guidelines on toad detection.
 
-{% include gallery caption="There is a once in a lifetime opportunity to stop the toad invasion just south of Broome, by controlling access to artificial waterpoints." %}
+{% include gallery caption="If we find a toad we know they are there, but what if we don't find a toad?" %}
 
 ## Aims
 
-This project will examine the use of burrows by toads and assess the rate at which toads find burrows and their capacity to survive in burrows. 
+This project will compare different methods for detecting the presence of cane toads when they arrive in a new area. It will involve two key components:
 
-## Objectives
+1. Fieldwork to trial detection methods
+2. Desktop analytical work to develop guidelines on toad detection.
 
-1. Examine toad survival in burrows over the dry season
-2. Quantify the degree to which burrows are occupied by toads in toad-invaded areas.
 
 ## Significance
 
-This project will work with government partners and Indigenous landowners towards understanding the capacity for toads to survive down burrows.  Results will immediately inform the design of the Toad Containment Zone, and contribute to keeping cane toads out of the Pilbara and areas further south in Western Australia.
+The guidelines on toad detection that will be developed through this project will be of value to a range of stakeholders from government organisations, to NGOs, mining companies, and Indigenous land managers.
 
 ## Candidate growth and outputs
 

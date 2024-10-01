@@ -9,7 +9,7 @@ open: true
 led_from: "Curtin University"
 supervisors:
   - "Holly Kirk"
-  permalink: /opportunities/holly-hons/
+permalink: /opportunities/holly-hons/
 gallery:
   - image_path: assets/2024/wren.jpg
 ---

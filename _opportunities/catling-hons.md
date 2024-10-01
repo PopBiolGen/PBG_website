@@ -9,7 +9,7 @@ open: true
 led_from: "Curtin University"
 supervisors:
   - "Brenton von Takach"
-  permalink: /opportunities/catling-hons/
+permalink: /opportunities/catling-hons/
 gallery:
   - image_path: assets/2024/catling.png
 ---

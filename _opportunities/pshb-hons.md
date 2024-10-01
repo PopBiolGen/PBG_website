@@ -1,44 +1,44 @@
 ---
-title: "Could bilbies facilitate the toad invasion?"
-excerpt: "Honours position: examinig the survival of toads down burrows"
-short_name: "toads in burrows"
-date: 2024-04-24
-start_date: 2024
+title: "Saving our trees: improving methods of detecting and trapping the tiny Polyphagous Shothole beetle"
+excerpt: "Honours position: beetles in a haystack"
+short_name: "PSHB trapping"
+date: 2024-10-01
+start_date: 2025
 type: Hons
 open: true
 led_from: "Curtin University"
 supervisors:
   - "Ben Phillips"
-  - "Judy Dunlop"
-permalink: /opportunities/toad-hons/
+permalink: /opportunities/pshb-hons/
 gallery:
-  - image_path: assets/images/projects/TCZ-map-australia.png
+  - image_path: assets/2024/PSHBKP.jpg
 ---
 
 ## Overview
 
-Cane toads have spread to occupy more than 1.6 million square kilometres of Australia.  They have a massive impact on native predator species, who are fatally poisoned when toads arrive in an area.  Toads have recently colonised the Kimberley and they continue to spread.  We have a once in a lifetime opportunity to stop the toad invasion just south of Broome.  We can effect this by managing pastoral infrastructure such that it is not available to toads, creating a waterless barrier against which the toad invasion should stop. Do this, and we potentially keep toads out of 27 million hectares of Western Australia.
+Polyphagous Shothole Borer (PSHB; Euwallacea fornicatus) is a sesame seed sized beetle native to Southeast Asia that has recently arrived in Australia – initially detected in East Fremantle. The borer is a plant pest – it bores into tree trunks, stems, and branches where It cultivates a fungus as a food source. This fungus can destroy the vascular tissue of the tree, leading to the tree’s death. PSHB is spreading through Perth, infecting trees and contributing to the loss of our urban canopy cover As of September 2024, PSHB has only been detected in the Perth metropolitan area. 
 
-While the basic idea is well researched, we are now moving into implementation phase, and we need to explore all possibilities.  One possibility is that toads may be able to survive down goanna and bilby burrows and so continue to spread.  This project examines the possibility that toads might be able to find and use burrows to survive over the dry season in northern Australia.
+Containment of PSHB is critical to prevent detrimental impacts to an array of native and agricultural species of plants. Early detection of PSHB when it arrives in a new location is key to ensuring an effective biosecurity response. WA’s Department of Primary Industries and Regional Development are working on the detection and containment of PSHB. 
 
-{% include gallery caption="There is a once in a lifetime opportunity to stop the toad invasion just south of Broome, by controlling access to artificial waterpoints." %}
+This project will work with government and industry partners and collaborators to examine improved methods for trapping and detecting PSHB to determine the most efficient, reliable method, and will contribute to the development of guidelines on PSHB detection.
+
+{% include gallery caption="Polyphagous shothole borer is a major outbreak affecting tree species in Perth" %}
 
 ## Aims
 
-This project will examine the use of burrows by toads and assess the rate at which toads find burrows and their capacity to survive in burrows. 
+This project will compare different methods for detecting and trapping PSHB. It will involve two key components:
 
-## Objectives
+1. Fieldwork to examine improved methods for trapping and detecting PSHB.
+2. Desktop analytical work.
 
-1. Examine toad survival in burrows over the dry season
-2. Quantify the degree to which burrows are occupied by toads in toad-invaded areas.
 
 ## Significance
 
-This project will work with government partners and Indigenous landowners towards understanding the capacity for toads to survive down burrows.  Results will immediately inform the design of the Toad Containment Zone, and contribute to keeping cane toads out of the Pilbara and areas further south in Western Australia.
+The guidelines on PSHB detection that will be developed through this project will be of value to a range of stakeholders from local government, to state government, and industry groups.
 
 ## Candidate growth and outputs
 
-The candidate will gain field experience in tropical Australia.  They will develop networks with Indigenous and government partners.  The candidate will also gain valuable experience with sampling design, data analysis, and reporting
+The candidate will gain field experience in a biosecurity response.  They will develop networks with government and iundustry partners.  The candidate will also gain valuable experience with sampling design, data analysis, and reporting
 
 ## How to apply
 

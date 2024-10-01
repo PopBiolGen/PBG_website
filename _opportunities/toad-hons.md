@@ -5,7 +5,7 @@ short_name: "toads in burrows"
 date: 2024-04-24
 start_date: 2024
 type: Hons
-open: true
+open: false
 led_from: "Curtin University"
 supervisors:
   - "Ben Phillips"

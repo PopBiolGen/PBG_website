@@ -1,49 +1,40 @@
 ---
-title: "Could bilbies facilitate the toad invasion?"
-excerpt: "Honours position: examinig the survival of toads down burrows"
-short_name: "toads in burrows"
-date: 2024-04-24
+title: "Training the ‘Catling Gun’: an AI object classification and tracking system for invasive species management"
+excerpt: "Honours position: training the Catling Gun"
+short_name: "training the catling gun"
+date: 2024-10-01
 start_date: 2024
 type: Hons
 open: true
 led_from: "Curtin University"
 supervisors:
-  - "Ben Phillips"
-  - "Judy Dunlop"
-permalink: /opportunities/toad-hons/
+  - "Brenton von Takach"
+  permalink: /opportunities/catling-hons/
 gallery:
-  - image_path: assets/images/projects/TCZ-map-australia.png
+  - image_path: assets/2024/catling.png
 ---
 
-## Overview
+## Background
 
-Cane toads have spread to occupy more than 1.6 million square kilometres of Australia.  They have a massive impact on native predator species, who are fatally poisoned when toads arrive in an area.  Toads have recently colonised the Kimberley and they continue to spread.  We have a once in a lifetime opportunity to stop the toad invasion just south of Broome.  We can effect this by managing pastoral infrastructure such that it is not available to toads, creating a waterless barrier against which the toad invasion should stop. Do this, and we potentially keep toads out of 27 million hectares of Western Australia.
+Invasive vertebrate animals are a problem globally. In Australia, cats have been key drivers of the extinction of dozens of native animals. Developing new, smart technology can help us combat ferals while protecting our native fauna. 
 
-While the basic idea is well researched, we are now moving into implementation phase, and we need to explore all possibilities.  One possibility is that toads may be able to survive down goanna and bilby burrows and so continue to spread.  This project examines the possibility that toads might be able to find and use burrows to survive over the dry season in northern Australia.
-
-{% include gallery caption="There is a once in a lifetime opportunity to stop the toad invasion just south of Broome, by controlling access to artificial waterpoints." %}
-
-## Aims
-
-This project will examine the use of burrows by toads and assess the rate at which toads find burrows and their capacity to survive in burrows. 
+We are developing a device that uses artificial intelligence to rapidly detect, classify, and trigger a response to the presence of a nearby cat. The system comprises two key components - software that can identify and track cats in real time, and hardware that can effectively spray a target animal – initially with water, but further down the track, with harmless but smelly liquid deterrents  (for cats in urban areas) or a viscous gel-based 1080 poison (for lethal control of cats in rural/remote areas). 
+The prototype device will use a customised neural network running on top of Google's TensorFlow Lite software library, with our software streaming a camera feed to the neural network. Artificial intelligence  will be used to classify whether fauna passing within range of the device are feral cats. The classification process must be accurate to ensure that non-target animals are not sprayed, and rapid to ensure that cats do not escape without being sprayed. 
 
 ## Objectives
-
-1. Examine toad survival in burrows over the dry season
-2. Quantify the degree to which burrows are occupied by toads in toad-invaded areas.
+This project will assist with training the AI system to recognise individual species. It will involve two key components:
+1. Fieldwork conducting camera trapping in both urban and natural environments.
+2. Desktop work to classify camera trap images.
 
 ## Significance
+This system has the potential to equip members of the public and land management agencies with a valuable tool for tackling the challenges posed by invasive vertebrate species, enabling the protection of our native fauna. 
 
-This project will work with government partners and Indigenous landowners towards understanding the capacity for toads to survive down burrows.  Results will immediately inform the design of the Toad Containment Zone, and contribute to keeping cane toads out of the Pilbara and areas further south in Western Australia.
-
-## Candidate growth and outputs
-
-The candidate will gain field experience in tropical Australia.  They will develop networks with Indigenous and government partners.  The candidate will also gain valuable experience with sampling design, data analysis, and reporting
+## Funding
+The Population Biology and Genomics team will cover all operating costs (materials, travel expenses) for the project.
 
 ## How to apply
 
 Candidates must have:
-
 - A strong track record in undergraduate studies;
 - A background or keen interest in ecology or conservation.
 

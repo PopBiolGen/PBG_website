@@ -24,8 +24,6 @@ header:
   <br/>
 {% endfor %}
 
-(More student profiles are coming.  We are also [recruiting]({{"/opportunities" | relative_url}}) PhD students to start in 2024.)
-  
 
 ## Alumni
 

@@ -145,6 +145,39 @@ Judy Dunlop:
       icon: "fab fa-keybase"
       url: "https://keybase.io/judy_d"
       
+Ian Lim Han Yan:
+  name   : "Ian Lim Han Yan"
+  short_name: Ian
+  name_title: 
+  avatar : "/assets/images/mugshots/ian.png"
+  position: "PhD student"
+  institution: Curtin University
+  email: ian.h.lim@postgrad.curtin.edu.au
+  home: "/team/Ian/"
+  bio    : "PhD student"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/concernedtapir"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square" 
+      url: "https://scholar.google.com/citations?user=cp2YMS0AAAAJ&hl=en"
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Ian-Lim-24" 
+    - label: "ORCiD"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0009-0008-1211-0780"
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/eyaaan"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/ian-lim-congen/"
+    - label: "iNaturalist"
+      icon: "ai ai-inaturalist"
+      url: "https://www.inaturalist.org/people/ian_noteeyan"
+      
 Marta Karolak:
   name   : "Marta Karolak"
   short_name: Marta

@@ -258,3 +258,33 @@ John Ohiolei:
     - label: "Keybase"
       icon: "fab fa-keybase"
       url: "https://keybase.io/asekhaen"
+
+Normandie Gonzalez-Orellana:
+  name   : "Normandie Gonzalez-Orellana"
+  short_name: Normandie
+  name_title: 
+  avatar : "/assets/images/mugshots/normandie.png"
+  position: "PhD. Student"
+  institution: Curtin University
+  email: normandie.gonzalez@postgrad.curtin.edu.au
+  home: "/team/Normandie/"
+  bio    : "PhD Student"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://gonormandie.netlify.app/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: ""
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/GOnormandie"
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/gonormandie"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: ""
+    - label: "Linked In"
+      icon: "fab fa-linkedin"
+      url: "www.linkedin.com/in/normandie-gonzález-orellana-msc-558a38187"

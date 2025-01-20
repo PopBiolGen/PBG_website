@@ -7,7 +7,7 @@ tags:
   - staff
 author: Ben Phillips
 gallery:
-  - image_path: assets/images/mugshots/holly.png
+  - image_path: assets/images/mugshots/holly.jpg
 ---
 
 Dr Holly Kirk officially joins us today.  Holly has been with us as a research associate since 2024, but is now moving her ARC Industry Fellowship to Curtin.  She officially starts with Curtin today (straddling two schools: Molecular and Life Sciences, and Design and Built Environment), and PBG is delighted to host her.

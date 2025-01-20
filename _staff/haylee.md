@@ -3,6 +3,7 @@ title:
 permalink: /team/haylee/
 author_profile: true
 author: Haylee D'Agui
+projects: false
 order: 3
 ---
 

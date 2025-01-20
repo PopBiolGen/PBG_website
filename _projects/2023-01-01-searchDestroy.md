@@ -13,6 +13,7 @@ industry_partners:
 collaborators:
   - "Ben Phillips"
   - "Brenton von Takach"
+  - "Andrew Coates"
 header:
   teaser: "assets/images/projects/detectionFigure.png"
 gallery:

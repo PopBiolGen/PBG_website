@@ -70,4 +70,4 @@ We currently have Postdoc projects available.
 
 ## Contact
 
-If you would like to work with us in any capacity, please drop either [Ben]({{site.data.authors["Ben Phillips"].home | relative_url}}) or [Brenton]({{site.data.authors["Brenton von Takach"].home | relative_url}}) a line.  Simplest is an email introducing yourself and a copy of your academic transcript and CV.  Including these two pieces will allow us to give you an informed reply.
+If you would like to work with us in any capacity, please drop [Ben]({{site.data.authors["Ben Phillips"].home | relative_url}}), [Brenton]({{site.data.authors["Brenton von Takach"].home | relative_url}}), or [Holly]({{site.data.authors["Holly Kirk"].home | relative_url}}) a line.  Simplest is an email introducing yourself and a copy of your academic transcript and CV.  Including these two pieces will allow us to give you an informed reply.

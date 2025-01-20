@@ -1,5 +1,5 @@
 ---
-title: "19 June 2024 Funding for phase I of the toad containment zone is announced"
+title: "Funding for phase I of the toad containment zone is announced"
 date: 2024-06-27
 categories:
   - news

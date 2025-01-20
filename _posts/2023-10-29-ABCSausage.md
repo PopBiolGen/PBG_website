@@ -1,5 +1,5 @@
 ---
-title: 31st Oct 2023 Ben quoted in ABC article on the the status of the cane toad invasion in WA 
+title: Ben quoted in ABC article on the the status of the cane toad invasion in WA 
 date: 2023-10-31
 categories:
   - news

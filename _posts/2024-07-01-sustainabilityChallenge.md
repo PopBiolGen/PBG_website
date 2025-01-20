@@ -1,5 +1,5 @@
 ---
-title: "01 July 2024 Sustainability Challenge and a little beetle"
+title: "Sustainability Challenge and a little beetle"
 date: 2024-07-01
 categories:
   - news

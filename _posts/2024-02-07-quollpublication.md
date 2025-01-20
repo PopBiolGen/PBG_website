@@ -1,5 +1,5 @@
 ---
-title: "7 Feb 2024 New paper! Managing northern quoll populations"
+title: "New paper! Managing northern quoll populations"
 date: 2024-02-07
 categories:
   - news

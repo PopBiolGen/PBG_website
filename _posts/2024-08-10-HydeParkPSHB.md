@@ -1,5 +1,5 @@
 ---
-title: "10 August 2024 Climbing arborists assess beetle numbers at Hyde Park"
+title: "Climbing arborists assess beetle numbers at Hyde Park"
 date: 2024-08-10
 categories:
   - news

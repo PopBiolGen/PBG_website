@@ -1,5 +1,5 @@
 ---
-title: "16 Feb 2024 Research priorities for the Polyphagous Shot Hole Borer"
+title: "Research priorities for the Polyphagous Shot Hole Borer"
 date: 2024-02-16
 categories:
   - news

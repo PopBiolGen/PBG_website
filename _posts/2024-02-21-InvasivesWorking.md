@@ -1,5 +1,5 @@
 ---
-title: 21 Feb 2024 Invasive Species Working Group
+title: Invasive Species Working Group
 date: 2024-02-21
 categories:
   - news

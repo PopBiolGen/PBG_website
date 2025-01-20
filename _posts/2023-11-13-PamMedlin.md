@@ -1,5 +1,5 @@
 ---
-title: 13th Nov 2023 Ben featured in ABC video on cane toads 
+title: Ben featured in ABC video on cane toads 
 date: 2023-11-13
 categories:
   - news

@@ -216,6 +216,9 @@ Holly Kirk:
   home: "/team/holly/"
   bio    : "ARC Industry Research Fellow"
   links:
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/hollykirk.bsky.social"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/HollyKirk"

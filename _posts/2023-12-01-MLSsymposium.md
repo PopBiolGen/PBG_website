@@ -1,5 +1,5 @@
 ---
-title: 1 Dec 2023 MLS Annual Symposium
+title: MLS Annual Symposium
 date: 2023-12-01
 categories:
   - news

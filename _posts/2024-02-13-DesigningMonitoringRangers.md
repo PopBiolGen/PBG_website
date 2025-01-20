@@ -1,5 +1,5 @@
 ---
-title: "13 Feb 2024 Designing toad monitoring with Ranger teams"
+title: "Designing toad monitoring with Ranger teams"
 date: 2024-02-13
 categories:
   - news

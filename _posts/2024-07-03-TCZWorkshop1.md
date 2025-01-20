@@ -1,5 +1,5 @@
 ---
-title: "03 July 2024 Toad containment zone workshop 1"
+title: "Toad containment zone workshop 1"
 date: 2024-07-03
 categories:
   - news

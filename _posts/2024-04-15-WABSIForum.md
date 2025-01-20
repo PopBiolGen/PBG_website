@@ -1,5 +1,5 @@
 ---
-title: 15 Apr 2024 WABSI and Curtin Urban Biodiversity Forum
+title: WABSI and Curtin Urban Biodiversity Forum
 date: 2024-04-15
 categories:
   - news

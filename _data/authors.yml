@@ -128,13 +128,13 @@ Judy Dunlop:
   avatar : "/assets/images/mugshots/judy.jpg"
   position: "Research Fellow at Curtin"
   institution: Curtin University
-  email: judy.dunlop@gmail.com
+  email: j.dunlop@curtin.edu.au
   home: "/team/judy/"
   bio    : "Research Fellow"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Judy_Dunlop"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/judydunlop.bsky.social"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.com.au/citations?user=NMjvmiAAAAAJ&hl=en"

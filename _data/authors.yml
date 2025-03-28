@@ -69,7 +69,7 @@ Andrew Coates:
   short_name: Andy
   name_title: Dr
   avatar : "/assets/images/mugshots/andy.jpg"
-  position: "Research Associate at Curtin"
+  position: "Research Associate"
   institution: Curtin University
   email: andrew.coates@curtin.edu.au
   home: "/team/andy/"
@@ -95,8 +95,8 @@ Haylee D'Agui:
   name   : "Haylee D'Agui"
   short_name: Haylee
   name_title: Dr
-  avatar : "/assets/images/mugshots/haylee.jpg"
-  position: "Project Officer at Curtin"
+  avatar : "/assets/images/mugshots/HDSq.jpg"
+  position: "Project Officer"
   institution: Curtin University
   email: haylee.dagui@curtin.edu.au
   home: "/team/haylee/"
@@ -126,7 +126,7 @@ Judy Dunlop:
   short_name: Judy
   name_title: Dr
   avatar : "/assets/images/mugshots/judy.jpg"
-  position: "Research Fellow at Curtin"
+  position: "Research Fellow"
   institution: Curtin University
   email: j.dunlop@curtin.edu.au
   home: "/team/judy/"
@@ -265,12 +265,27 @@ John Ohiolei:
       icon: "fab fa-keybase"
       url: "https://keybase.io/asekhaen"
 
+Josh Lemmon:
+  name: "Josh Lemmon"
+  short_name: Josh
+  name_title: 
+  avatar : "/assets/images/mugshots/JoshSquare.jpg"
+  position: "Honours student"
+  institution: Curtin University
+  email: joshua.lemmon@student.curtin.edu.au
+  home: "/team/Josh/"
+  bio    : "Honours student"
+  links:
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/lemmon"
+
 Normandie Gonzalez-Orellana:
   name   : "Normandie Gonzalez-Orellana"
   short_name: Normandie
   name_title: 
   avatar : "/assets/images/mugshots/normandie.png"
-  position: "PhD. Student"
+  position: "PhD student"
   institution: Curtin University
   email: normandie.gonzalez@postgrad.curtin.edu.au
   home: "/team/normandie/"
@@ -294,3 +309,18 @@ Normandie Gonzalez-Orellana:
     - label: "Linked In"
       icon: "fab fa-linkedin"
       url: "www.linkedin.com/in/normandie-gonzález-orellana-msc-558a38187"
+      
+Carine Siew:
+  name: "Carine Siew"
+  short_name: Carine
+  name_title: 
+  avatar : "/assets/images/mugshots/CS.JPG"
+  position: "Honours student"
+  institution: Curtin University
+  email: c.siew3@student.curtin.edu.au
+  home: "/team/Carine/"
+  bio    : "Honours student"
+  links:
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/carineee"

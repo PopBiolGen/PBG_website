@@ -6,6 +6,7 @@ categories:
 tags:
   - cane toads
   - outreach
+  - workshops
   - ben
   - judy
 author: Ben Phillips

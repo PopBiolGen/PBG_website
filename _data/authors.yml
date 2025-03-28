@@ -266,7 +266,7 @@ John Ohiolei:
       url: "https://keybase.io/asekhaen"
 
 Josh Lemmon:
-  name   : "Josh Lemmon"
+  name: "Josh Lemmon"
   short_name: Josh
   name_title: 
   avatar : "/assets/images/mugshots/JoshSquare.jpg"
@@ -276,9 +276,10 @@ Josh Lemmon:
   home: "/team/Josh/"
   bio    : "Honours student"
   links:
-        - label: "Keybase"
+    - label: "Keybase"
       icon: "fab fa-keybase"
       url: "https://keybase.io/lemmon"
+
 Normandie Gonzalez-Orellana:
   name   : "Normandie Gonzalez-Orellana"
   short_name: Normandie
@@ -310,7 +311,7 @@ Normandie Gonzalez-Orellana:
       url: "www.linkedin.com/in/normandie-gonzález-orellana-msc-558a38187"
       
 Carine Siew:
-  name   : "Carine Siew"
+  name: "Carine Siew"
   short_name: Carine
   name_title: 
   avatar : "/assets/images/mugshots/CS.JPG"
@@ -320,6 +321,6 @@ Carine Siew:
   home: "/team/Carine/"
   bio    : "Honours student"
   links:
-        - label: "Keybase"
+    - label: "Keybase"
       icon: "fab fa-keybase"
       url: "https://keybase.io/carineee"

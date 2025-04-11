@@ -39,7 +39,5 @@ For any questions, please contact Marta Karolak:
 <marta.karolak@postgrad.curtin.edu.au>
 
 
-{% if gallery %}
 {% include gallery caption = "Redback spider and Portuguese millipede."%}
-{% endif %}
 

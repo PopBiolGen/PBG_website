@@ -11,15 +11,16 @@ funders:
   - "Curtin University"
 industry_partners:
 collaborators:
+  - "Marta Karolak"
   - "Ben Phillips"
   - "Brenton von Takach"
   - "Ian Lim Han Yan"
 header:
   teaser: "assets/images/projects/ant1.jpg"
 gallery:
-  - image_path: assets/images/projects/spider.jpg
+  - image_path: assets/images/projects/spider.png
     image_caption: "Redback spider"
-  - image_path: "assets/images/projects/millipede.jpg"
+  - image_path: "assets/images/projects/millipede.png"
     image_caption: "Portuguese millipede"
 ---
 

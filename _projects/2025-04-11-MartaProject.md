@@ -15,7 +15,7 @@ collaborators:
   - "Brenton von Takach"
   - "Ian Lim Han Yan"
 header:
-  teaser: "assets/images/projects/ant.jpg"
+  teaser: "assets/images/projects/ant1.jpg"
 gallery:
   - image_path: assets/images/projects/spider.jpg
     image_caption: "Redback spider"
@@ -39,7 +39,5 @@ For any questions, please contact Marta Karolak:
 <marta.karolak@postgrad.curtin.edu.au>
 
 
-{% if gallery %}
 {% include gallery caption = "Redback spider and Portuguese millipede."%}
-{% endif %}
 

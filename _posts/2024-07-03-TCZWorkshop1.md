@@ -6,8 +6,8 @@ categories:
 tags:
   - cane toads
   - outreach
-  - ben
-  - judy
+  - Ben
+  - Judy
 author: Ben Phillips
 gallery:
   - image_path: assets/2024/TCZworkshop.jpg

@@ -5,8 +5,9 @@ categories:
   - news
 tags:
   - cane toads
+  - TCZ
   - outreach
-  - ben
+  - Ben
   - media
 author: Ben Phillips
 gallery:

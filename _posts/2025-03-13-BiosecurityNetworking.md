@@ -6,7 +6,8 @@ categories:
 tags:
   - outreach
   - presentations
-  - brenton
+  - Brenton
+  - events
 author: Haylee D'Agui
 gallery:
   - image_path: assets/2025/biosec1.jpeg

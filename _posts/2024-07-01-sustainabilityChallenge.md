@@ -6,7 +6,7 @@ categories:
 tags:
   - PSHB
   - teaching
-  - ben
+  - Ben
 author: Ben Phillips
 gallery:
   - image_path: assets/2024/sustChallStudents.jpg

@@ -5,6 +5,7 @@ categories:
   - news
 tags:
   - students
+  - Normandie
 author: Ben Phillips
 gallery:
   - image_path: assets/images/mugshots/normandie.png

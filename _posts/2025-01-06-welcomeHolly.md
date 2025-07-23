@@ -4,7 +4,7 @@ date: 2025-01-06
 categories:
   - news
 tags:
-  - staff
+    - Holly
 author: Ben Phillips
 gallery:
   - image_path: assets/images/mugshots/holly.jpg

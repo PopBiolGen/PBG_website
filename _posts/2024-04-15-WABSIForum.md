@@ -5,10 +5,10 @@ categories:
   - news
 tags:
   - outreach
-  - ben
-  - brenton
-  - holly
-  - haylee
+  - Ben
+  - Brenton
+  - Holly
+  - Haylee
   - pbg team
   - presentations
   - workshops

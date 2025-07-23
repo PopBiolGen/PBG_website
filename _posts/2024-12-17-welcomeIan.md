@@ -5,6 +5,7 @@ categories:
   - news
 tags:
   - students
+  - Ian
 author: Ben Phillips
 gallery:
   - image_path: assets/images/mugshots/ian.png

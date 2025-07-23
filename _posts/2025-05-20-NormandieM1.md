@@ -5,6 +5,8 @@ categories:
   - news
 tags:
   - students
+  - Normandie
+  - presentations
 author: Haylee D'Agui
 gallery:
   - image_path: assets/2025/ngom1.jpg

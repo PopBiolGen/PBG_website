@@ -7,8 +7,8 @@ sidebar:
     image_alt: "A bush rat sitting on a person's hand."
   - image: "assets/images/gallery/fire_savannas.png"
     image_alt: "Savanna fire regime figure."
-  - image: "assets/images/logo/JTSI_GWA_mono_17_short.jpg"
-    image_alt: "Supported by WA JTSI."
+  - image: "assets/images/logo/DEED_logo.png"
+    image_alt: "Supported by WA DEED."
 header:
   overlay_color: "#000"
   overlay_filter: "0.00"
@@ -21,6 +21,6 @@ Here at PBG, we leverage a multidisciplinary approach, using a combination of ec
 
 We maintain strong collaborative links to industry, academia, and governmental organisations to improve our science and translate findings into practical applications for meaningful impact. In this spirit, we aim to foster an inclusive and collaborative environment, where creativity and intellectual curiosity thrive, nurturing the next generation of scientists and innovators.
 
-Our primary research [projects](https://popbiolgenomics.org/projects/) for the next few years are supported by the Western Australian Government’s Department of Jobs, Tourism, Science and Innovation, and Curtin University, through the [Premier’s Science Fellowship Program](https://www.wa.gov.au/service/community-services/grants-and-subsidies/premiers-science-fellowship-program).
+Our primary research [projects](https://popbiolgenomics.org/projects/) for the next few years are supported by the Western Australian Government’s Department of Energy and Economic Diversification, and Curtin University, through the [Premier’s Science Fellowship Program](https://www.wa.gov.au/service/community-services/grants-and-subsidies/premiers-science-fellowship-program).
 
 We are based on Whadjuk Noongar country: in the [School of Molecular and Life Sciences](https://www.curtin.edu.au/about/learning-teaching/science-engineering/school-of-molecular-life-sciences/) at Curtin University.

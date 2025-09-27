@@ -324,3 +324,18 @@ Carine Siew:
     - label: "Keybase"
       icon: "fab fa-keybase"
       url: "https://keybase.io/carineee"
+      
+Grace Maglio:
+  name: "Grace Maglio"
+  short_name: Grace
+  name_title: 
+  avatar : "/assets/images/mugshots/Grace_Square.jpeg"
+  position: "Research Assistant"
+  institution: Curtin University
+  email: grace.maglios@curtin.edu.au
+  home: "/team/Grace/"
+  bio    : "Research Assistant"
+  links:
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/gracem"

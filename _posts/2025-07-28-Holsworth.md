@@ -17,3 +17,5 @@ PBG PhD student Marta Karolak has been awarded funding from the Holsworth Wildli
 Marta will use these funds to cover some of the costs associated with DNA sequencing for her project.
 The Holsworth Wildlife Research Endowment provides research funding support to students in ecology, wildlife management and natural history studies.
 Congratulations Marta!
+
+{% include gallery caption="Marta is now supported by the Holsworth Wildlife Research Endowment." %}

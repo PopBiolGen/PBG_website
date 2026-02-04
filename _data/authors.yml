@@ -339,4 +339,18 @@ Grace Maglio:
     - label: "Keybase"
       icon: "fab fa-keybase"
       url: "https://keybase.io/gracem"
-      
+
+Harry Richardson-Cooke:
+  name: "Harry Richardson-Cooke"
+  short_name: Harry
+  name_title: 
+  avatar : "/assets/images/mugshots/harry.jpeg"
+  position: "Honours student"
+  institution: Curtin University
+  email: harry.richards@graduate.curtin.edu.au
+  home: "/team/Harry/"
+  bio    : "Honours student"
+  links:
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/hazzarc"      

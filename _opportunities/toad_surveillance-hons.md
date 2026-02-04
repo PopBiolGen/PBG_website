@@ -5,7 +5,7 @@ short_name: "toads detection"
 date: 2024-10-01
 start_date: 2025
 type: Hons
-open: true
+open: false
 led_from: "Curtin University"
 supervisors:
   - "Ben Phillips"

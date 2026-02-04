@@ -26,6 +26,9 @@ header:
 
 
 ## Alumni
+Carine Siew (Honours Curtin 2025, supervised by Ben Phillips and Judy Dunlop). 
+
+Joshua Lemmon (Honours Curtin 2025, supervised by Brenton von Takach). Patterns in the pond: the role of colour, pattern and texture in species delimitation of polymorphic froglets in southwest Australia.
 
 Natasha Harrison (PhD UWA 2020-2024, supervised by Nicki Mitchell, Ben Phillips, and Jan Hemming). Do conservation havens cause the loss of antipredator traits?
 

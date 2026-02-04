@@ -5,7 +5,7 @@ short_name: "training the catling gun"
 date: 2024-10-01
 start_date: 2024
 type: Hons
-open: true
+open: false
 led_from: "Curtin University"
 supervisors:
   - "Brenton von Takach"

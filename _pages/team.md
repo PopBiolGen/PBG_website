@@ -26,6 +26,11 @@ header:
 
 
 ## Alumni
+Holly Kirk (ARC Industry Fellow, 2025). Biodiveristy sensitive urban design.
+
+Carine Siew (Honours Curtin 2025, supervised by Ben Phillips and Judy Dunlop). Evaluating exclusion fence design for the management of cane toads.
+
+Joshua Lemmon (Honours Curtin 2025, supervised by Brenton von Takach). Patterns in the pond: the role of colour, pattern and texture in species delimitation of polymorphic froglets in southwest Australia.
 
 Natasha Harrison (PhD UWA 2020-2024, supervised by Nicki Mitchell, Ben Phillips, and Jan Hemming). Do conservation havens cause the loss of antipredator traits?
 

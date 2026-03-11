@@ -340,6 +340,21 @@ Grace Maglio:
       icon: "fab fa-keybase"
       url: "https://keybase.io/gracem"
 
+Sascha Turisini:
+  name: "Sascha Turisini"
+  short_name: Sascha
+  name_title: 
+  avatar : 
+  position: "Project Manager - Toad Containment Zone"
+  institution: Curtin University
+  email: sascha.turisini@curtin.edu.au
+  home: "/team/sascha/"
+  bio    : "Project Manager - Toad Containment Zone"
+  links:
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/saschka"
+
 Harry Richardson-Cooke:
   name: "Harry Richardson-Cooke"
   short_name: Harry

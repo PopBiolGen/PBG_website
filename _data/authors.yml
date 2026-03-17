@@ -27,9 +27,6 @@ Ben Phillips:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.com.au/citations?user=Kk1JhPwAAAAJ&hl"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/benflips"
             
 Brenton von Takach:
   name   : "Brenton von Takach"
@@ -339,6 +336,21 @@ Grace Maglio:
     - label: "Keybase"
       icon: "fab fa-keybase"
       url: "https://keybase.io/gracem"
+
+Sascha Turisini:
+  name: "Sascha Turisini"
+  short_name: Sascha
+  name_title: 
+  avatar : "/assets/images/mugshots/Sascha.jpg"
+  position: "Project Manager - Toad Containment Zone"
+  institution: Curtin University
+  email: sascha.turisini@curtin.edu.au
+  home: "/team/sascha/"
+  bio    : "Project Manager - Toad Containment Zone"
+  links:
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/saschka"
 
 Harry Richardson-Cooke:
   name: "Harry Richardson-Cooke"

@@ -93,13 +93,13 @@ Haylee D'Agui:
   short_name: Haylee
   name_title: Dr
   avatar : "/assets/images/mugshots/HDSq.jpg"
-  position: "Project Officer/Research Officer"
+  position: "Project Officer / Research Officer"
   institution: Curtin University
   email: haylee.dagui@curtin.edu.au
   home: "/team/haylee/"
-  bio    : "Project Officer/Research Officer"
+  bio    : "Project Officer / Research Officer"
   links:
-        - label: "GitHub"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Haylee-D"
     - label: "Google Scholar"

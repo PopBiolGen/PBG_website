@@ -363,3 +363,18 @@ Harry Richardson-Cooke:
     - label: "Keybase"
       icon: "fab fa-keybase"
       url: "https://keybase.io/hazzarc"      
+      
+Elena Legenka:
+  name: "Elena Legenka"
+  short_name: Elena
+  name_title:
+  avatar : "/assets/images/mugshots/elena.png"
+  position: "Project Officer - Toad Containment Zone"
+  institution: Curtin University
+  email: olena.legenka@curtin.edu.au
+  home: "/team/Elena/"
+  bio    : "Project Officer - Toad Containmnent ZOne"
+  links:
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/elena317"  

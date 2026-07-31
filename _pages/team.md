@@ -26,6 +26,8 @@ header:
 
 
 ## Alumni
+Andrew Coates (Research Associate 2024-2026). Decision support tools for biosecurity in Western Australia.
+
 Holly Kirk (ARC Industry Fellow, 2025). Biodiveristy sensitive urban design.
 
 Carine Siew (Honours Curtin 2025, supervised by Ben Phillips and Judy Dunlop). Evaluating exclusion fence design for the management of cane toads.

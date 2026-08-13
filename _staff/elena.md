@@ -4,7 +4,7 @@ permalink: /team/elena/
 author_profile: true
 author: Elena Legenka
 projects: false
-order: 3
+order: 7
 ---
 
 Elena is a Project Officer in the School of Molecular and Life Sciences at Curtin University, Perth. She brings experience across higher education and government sectors in Australia and New Zealand, with strong skills in project coordination, stakeholder engagement, governance and administration.

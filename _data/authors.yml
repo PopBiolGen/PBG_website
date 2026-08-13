@@ -372,8 +372,8 @@ Elena Legenka:
   position: "Project Officer - Toad Containment Zone"
   institution: Curtin University
   email: olena.legenka@curtin.edu.au
-  home: "/team/Elena/"
-  bio    : "Project Officer - Toad Containmnent ZOne"
+  home: "/team/elena/"
+  bio    : "Project Officer - Toad Containmnent Zone"
   links:
     - label: "Keybase"
       icon: "fab fa-keybase"

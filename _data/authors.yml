@@ -377,4 +377,19 @@ Elena Legenka:
   links:
     - label: "Keybase"
       icon: "fab fa-keybase"
-      url: "https://keybase.io/elena317"  
+      url: "https://keybase.io/elena_le"  
+      
+Jasper Twigg:
+  name: "Jasper Twigg"
+  short_name: Jasper
+  name_title:
+  avatar : "/assets/images/mugshots/jasper.JPG"
+  position: "Research Officer - Toad Containment Zone"
+  institution: Curtin University
+  email: jasper.twigg@curtin.edu.au
+  home: "/team/jasper/"
+  bio    : "Research Officer - Toad Containmnent Zone"
+  links:
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/jtwigg"  

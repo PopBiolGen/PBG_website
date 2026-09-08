@@ -16,4 +16,4 @@ We are pleased to welcome Elena Legenka to the PBG team. Elena has joined our te
 Elena will be providing the TCZ team with support in project management, administration, governance, project documentation, reporting and finance. Elena brings with her a strong background and understanding in high level research support within Curtin, having most recently worked as a Project Officer in Curtin’s Future of Work Institute, where she supported the successful application for the ARC Centre of Excellence for Quality Work.
 
 
-{% include gallery caption="Elena Legenka has joined our team!" %}
+{% include gallery layout="half" caption="Elena Legenka has joined our team!" %}

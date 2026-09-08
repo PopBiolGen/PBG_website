@@ -3,6 +3,7 @@ title:
 permalink: /team/jasper/
 author_profile: true
 author: Jasper Twigg
+projects: false
 order: 8
 ---
 

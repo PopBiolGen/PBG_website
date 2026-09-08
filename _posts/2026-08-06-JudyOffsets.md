@@ -1,5 +1,5 @@
 ---
-title: "New paper on ‘toad-proofing farms’ gaining attention"
+title: "Judy presents at offsets conference"
 date: 2026-08-06
 categories:
   - news
@@ -16,4 +16,4 @@ Judy recently represented the Toad Containment Zone project at the National Biod
 Judy presented in the plenary session ‘Delivery of offsets in practice: planning and implementing offsets that deliver genuine conservation outcomes.’ The session focused on the practical challenges and opportunities involved in designing and implementing biodiversity offsets that achieve measurable, long-term conservation outcomes.
 
 
-{% include gallery caption="Judy attended the National Biodiversity Offsets Conference 4.0 in Canberra." %}
+{% include gallery layout="half" caption="Judy attended the National Biodiversity Offsets Conference 4.0 in Canberra." %}

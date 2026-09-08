@@ -16,4 +16,4 @@ We are delighted to welcome Jasper Twigg to the PBG team. Jasper has joined our 
 Jasper will be supporting research activities relating to fauna and cane toad monitoring with Indigenous Ranger groups, pastoralists and scientists, including assisting with data collection and analysis, fieldwork, and the development of research outputs and reports. Jasper brings valuable field and community-based experience from his previous role as Ranger Coordinator with Pila Nguru Aboriginal Corporation in the remote Aboriginal community of Tjuntjuntjara, Western Australia. Jasper has a key focus on bringing together a wide range of stakeholders through communication to achieve shared goals.
 
 
-{% include gallery caption="Jasper Twigg has joined the PBG team." %}
+{% include gallery layout="half" caption="Jasper Twigg has joined the PBG team." %}

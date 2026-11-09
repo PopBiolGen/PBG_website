@@ -69,7 +69,6 @@ Andrew Coates:
   position: "Research Associate"
   institution: Curtin University
   email: andrew.coates@curtin.edu.au
-  home: "/team/andy/"
   bio    : "Research Associate"
   links:
     - label: "GitHub"
@@ -210,7 +209,6 @@ Holly Kirk:
   position: "ARC Industry Research Fellow"
   institution: Curtin University
   email: holly.kirk@curtin.edu.au
-  home: "/team/holly/"
   bio    : "ARC Industry Research Fellow"
   links:
     - label: "Bluesky"
@@ -267,7 +265,6 @@ Josh Lemmon:
   position: "Honours student"
   institution: Curtin University
   email: joshua.lemmon@student.curtin.edu.au
-  home: "/team/Josh/"
   bio    : "Honours student"
   links:
     - label: "Keybase"
@@ -312,7 +309,6 @@ Carine Siew:
   position: "Honours student"
   institution: Curtin University
   email: c.siew3@student.curtin.edu.au
-  home: "/team/Carine/"
   bio    : "Honours student"
   links:
     - label: "Keybase"
@@ -327,7 +323,6 @@ Grace Maglio:
   position: "Research Assistant"
   institution: Curtin University
   email: grace.maglios@curtin.edu.au
-  home: "/team/grace/"
   bio    : "Research Assistant"
   links:
     - label: "Keybase"

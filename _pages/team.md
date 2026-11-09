@@ -26,6 +26,8 @@ header:
 
 
 ## Alumni
+Grace Maglio (Research Assistant 2025-2026). Community engagement and on-ground management of the cane toad Toad Containment Zone in northern Australia.
+
 Andrew Coates (Research Associate 2024-2026). Decision support tools for biosecurity in Western Australia.
 
 Holly Kirk (ARC Industry Fellow, 2025). Biodiveristy sensitive urban design.
